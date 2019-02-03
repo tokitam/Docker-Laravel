@@ -22,7 +22,7 @@ LaraDockを使う方法がありましたが、少々大きすぎるので必要
 
 ## 手順
 
-### Git cloneと環境変数の変更
+### Git cloneと環境変数の変更
 
 ```
 $ git clone https://github.com/rinonkia/Docker-Laravel.git sample_app
@@ -44,7 +44,7 @@ MySQLの環境変数は任意で変更する。<br>
 
 ## Docker compose -イメージビルド-
 
-`docker-composer.yml`ファイル内の`app: build`を元に`docker/php/Dockerfile`の内容を実行。<br>
+`docker-composer.yml`ファイル内の`app: build`を元に`docker/php/Dockerfile`の内容を実行。<br>
 
 ```shell
 $ cd sample_app
@@ -65,7 +65,7 @@ php                 7.2.12-fpm          9d11d506e313        2 months ago        
 
 ## Docker compose -コンテナ起動-
 
-`docker-compose.yml`ファイルの`image`を元にMySQLとNginxのイメージをpullしてくる。それを元にしてコンテナ起動。
+`docker-compose.yml`ファイルの`image`を元にMySQLとNginxのイメージをpullしてくる。それを元にしてコンテナ起動。
 
 ```shell
 $ docker-compose up -d
@@ -79,7 +79,7 @@ Creating sample_app_1   ... done
 Creating sample_web_1   ... done
 ```
 
-しっかりと動いているか確認する。<br>
+しっかりと動いているか確認する。<br>
 
 ```shell
 $ docker-compose ps
@@ -92,7 +92,7 @@ sample_web_1     nginx -g daemon off;            Up      0.0.0.0:8000->80/tcp
 
 `http://localhost:8000/`にアクセスし、`403 Forbidden nginx/1.15.6`と出ていたら成功。
 
-上手くいかない場合は`docker-compose logs`でログを確認。
+上手くいかない場合は`docker-compose logs`でログを確認。
 
 ## Laravelインストール
 
@@ -128,7 +128,7 @@ DB_USERNAME=user
 DB_PASSWORD=password
 ```
 
-コンテナ内から退却し再起動。<br>
+コンテナ内から退却し再起動。<br>
 
 ```shell
 $ docker-compose restart
@@ -138,7 +138,7 @@ $ docker-compose restart
 
 ## マイグレーション
 
-またもやコンテナにbashログイン。<br>
+またもやコンテナにbashログイン。<br>
 
 ```
 $ docker-compose exec app bash
