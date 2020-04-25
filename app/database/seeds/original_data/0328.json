@@ -1,0 +1,51 @@
+{"date" : "1994.03.25.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "hide（X JAPAN）",
+"artists_name_img": "",
+"music_name_disp" : "TELL ME",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "hide（X JAPAN）",
+"artists_name_img": "",
+"music_name_disp" : "DOUBT",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "SAY・S",
+"artists_name_img": "",
+"music_name_disp" : "HAPPY ROAD",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "To Be Continued",
+"artists_name_img": "",
+"music_name_disp" : "君だけを見ていた",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "吉田栄作",
+"artists_name_img": "",
+"music_name_disp" : "MAY ～君に逢うために～",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "江口洋介",
+"artists_name_img": "",
+"music_name_disp" : "愛は愛で",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "中山美穂",
+"artists_name_img": "",
+"music_name_disp" : "ただ泣きたくなるの",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

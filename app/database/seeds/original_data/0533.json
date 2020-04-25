@@ -1,0 +1,63 @@
+{"date" : "1998.12.11.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Jungle Smile",
+"artists_name_img": "",
+"music_name_disp" : "白い恋人",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "Happy Happy Greeting",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "シンデレラ・クリスマス",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "PUFFY",
+"artists_name_img": "",
+"music_name_disp" : "パフィーde ルンバ",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "SOPHIA",
+"artists_name_img": "",
+"music_name_disp" : "黒いブーツ～oh my friend～",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "the brilliant green",
+"artists_name_img": "",
+"music_name_disp" : "good bye and good luck",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "TRICERATOPS",
+"artists_name_img": "",
+"music_name_disp" : "FEVER",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "サーフィス",
+"artists_name_img": "",
+"music_name_disp" : "さぁ",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "Depend on you",
+"music_name_img" : "",
+"sort": "10"
+},{}]}

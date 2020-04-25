@@ -1,0 +1,51 @@
+{"date" : "2005.06.24.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "倖田來未",
+"artists_name_img": "",
+"music_name_disp" : "Ｂｕｔｔｅｒｆｌｙ",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "UTAO-UTAO",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "Mr.Children",
+"artists_name_img": "",
+"music_name_disp" : "ａｎｄ　Ｉ　ｌｏｖｅ　ｙｏｕ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Def Tech",
+"artists_name_img": "",
+"music_name_disp" : "My Way",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "Ｄｅｆ　Ｔｅｃｈ",
+"artists_name_img": "",
+"music_name_disp" : "KONOMAMA Def Tech reintroducing RIZE",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "バックストリート・ボーイズ",
+"artists_name_img": "",
+"music_name_disp" : "INCOMPLETE",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "スキマスイッチ",
+"artists_name_img": "",
+"music_name_disp" : "雨待ち風",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

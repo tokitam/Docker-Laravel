@@ -1,0 +1,51 @@
+{"date" : "1995.10.20.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "BEREEVE",
+"artists_name_img": "",
+"music_name_disp" : "本気でも嘘でもいい",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "L→R",
+"artists_name_img": "",
+"music_name_disp" : "BYE",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "PRINCESS PRINCESS",
+"artists_name_img": "",
+"music_name_disp" : "M",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "PRINCESS PRINCESS",
+"artists_name_img": "",
+"music_name_disp" : "Fly Baby Fly",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "TOKIO",
+"artists_name_img": "",
+"music_name_disp" : "好きさ ～ Ticket To Love ～",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "華原朋美",
+"artists_name_img": "",
+"music_name_disp" : "I BELIEVE",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "森高千里",
+"artists_name_img": "",
+"music_name_disp" : "休みの午後",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

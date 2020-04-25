@@ -1,0 +1,51 @@
+{"date" : "1998.08.21.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "CASCADE",
+"artists_name_img": "",
+"music_name_disp" : "FLOWERS OF ROMANCE",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "D-SHADE",
+"artists_name_img": "",
+"music_name_disp" : "ENDLESS LOVE",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "ジャニーズ Jr.",
+"artists_name_img": "",
+"music_name_disp" : "TIME ZONE～I believe in myself",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "華原朋美",
+"artists_name_img": "",
+"music_name_disp" : "here we are",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "古内東子",
+"artists_name_img": "",
+"music_name_disp" : "心にしまいましょう",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "工藤静香",
+"artists_name_img": "",
+"music_name_disp" : "きらら",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "上々颱風",
+"artists_name_img": "",
+"music_name_disp" : "翼がほしい",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

@@ -1,0 +1,261 @@
+{"date" : "2003.12.26.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "愛内里菜",
+"artists_name_img": "",
+"music_name_disp" : "FULL JUMP",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "aiko",
+"artists_name_img": "",
+"music_name_disp" : "アンドロメダ",
+"music_name_img" : "",
+"sort": "30"
+},{
+"artists_name_disp" : "安室奈美恵",
+"artists_name_img": "",
+"music_name_disp" : "SO CRAZY",
+"music_name_img" : "",
+"sort": "37"
+},{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "ハダシの未来<br>言葉より大切なもの",
+"music_name_img" : "",
+"sort": "13"
+},{
+"artists_name_disp" : "175R",
+"artists_name_img": "",
+"music_name_disp" : "空に唄えば",
+"music_name_img" : "",
+"sort": "31"
+},{
+"artists_name_disp" : "上戸彩",
+"artists_name_img": "",
+"music_name_disp" : "微熱",
+"music_name_img" : "",
+"sort": "12"
+},{
+"artists_name_disp" : "HY",
+"artists_name_img": "",
+"music_name_disp" : "AM11:00",
+"music_name_img" : "",
+"sort": "32"
+},{
+"artists_name_disp" : "EXILE",
+"artists_name_img": "",
+"music_name_disp" : "Together<br>Choo Choo TRAIN",
+"music_name_img" : "",
+"sort": "24"
+},{
+"artists_name_disp" : "Every Little Thing",
+"artists_name_img": "",
+"music_name_disp" : "また あした",
+"music_name_img" : "",
+"sort": "10"
+},{
+"artists_name_disp" : "オレンジレンジ",
+"artists_name_img": "",
+"music_name_disp" : "上海ハニー",
+"music_name_img" : "",
+"sort": "29"
+},{
+"artists_name_disp" : "Gackt",
+"artists_name_img": "",
+"music_name_disp" : "Last Song",
+"music_name_img" : "",
+"sort": "36"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "永遠のBLOODS",
+"music_name_img" : "",
+"sort": "23"
+},{
+"artists_name_disp" : "ケツメイシ",
+"artists_name_img": "",
+"music_name_disp" : "夏の思い出",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "CHEMISTRY",
+"artists_name_img": "",
+"music_name_disp" : "YOUR NAME NEVER GONE",
+"music_name_img" : "",
+"sort": "16"
+},{
+"artists_name_disp" : "ゴスペラーズ",
+"artists_name_img": "",
+"music_name_disp" : "新大阪",
+"music_name_img" : "",
+"sort": "38"
+},{
+"artists_name_disp" : "後藤真希",
+"artists_name_img": "",
+"music_name_disp" : "抱いてよ！PLEASE GO ON",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "島谷ひとみ",
+"artists_name_img": "",
+"music_name_disp" : "YUME日和",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "女子十二楽坊",
+"artists_name_img": "",
+"music_name_disp" : "自由<br>地上の星<br>自由",
+"music_name_img" : "",
+"sort": "27"
+},{
+"artists_name_disp" : "SPEED",
+"artists_name_img": "",
+"music_name_disp" : "Body & Soul<br>Go! Go! Heaven<br>Walking in the rain",
+"music_name_img" : "",
+"sort": "25"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "世界に一つだけの花（ミュージックステーションスペシャルバージョン）",
+"music_name_img" : "",
+"sort": "20"
+},{
+"artists_name_disp" : "ZONE",
+"artists_name_img": "",
+"music_name_disp" : "true blue",
+"music_name_img" : "",
+"sort": "14"
+},{
+"artists_name_disp" : "タッキー＆翼",
+"artists_name_img": "",
+"music_name_disp" : "夢物語",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "玉置成実",
+"artists_name_img": "",
+"music_name_disp" : "Believe<br>Realize",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "TUBE",
+"artists_name_img": "",
+"music_name_disp" : "Let's go to the sea～OASIS～",
+"music_name_img" : "",
+"sort": "39"
+},{
+"artists_name_disp" : "TOKIO",
+"artists_name_img": "",
+"music_name_disp" : "AMBITIOUS JAPAN!",
+"music_name_img" : "",
+"sort": "28"
+},{
+"artists_name_disp" : "中島美嘉",
+"artists_name_img": "",
+"music_name_disp" : "雪の華",
+"music_name_img" : "",
+"sort": "35"
+},{
+"artists_name_disp" : "NEWS",
+"artists_name_img": "",
+"music_name_disp" : "NEWSニッポン",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "HYDE",
+"artists_name_img": "",
+"music_name_disp" : "HELLO",
+"music_name_img" : "",
+"sort": "11"
+},{
+"artists_name_disp" : "はなわ",
+"artists_name_img": "",
+"music_name_disp" : "佐賀県",
+"music_name_img" : "",
+"sort": "17"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "No way to say",
+"music_name_img" : "",
+"sort": "41"
+},{
+"artists_name_disp" : "B'z",
+"artists_name_img": "",
+"music_name_disp" : "IT'S SHOWTIME!!",
+"music_name_img" : "",
+"sort": "21"
+},{
+"artists_name_disp" : "一青窈",
+"artists_name_img": "",
+"music_name_disp" : "もらい泣き",
+"music_name_img" : "",
+"sort": "33"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "Darling",
+"music_name_img" : "",
+"sort": "34"
+},{
+"artists_name_disp" : "FLOW",
+"artists_name_img": "",
+"music_name_disp" : "贈る言葉<br>メロス",
+"music_name_img" : "",
+"sort": "26"
+},{
+"artists_name_disp" : "BoA",
+"artists_name_img": "",
+"music_name_disp" : "Shine We Are!",
+"music_name_img" : "",
+"sort": "15"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "メリッサ",
+"music_name_img" : "",
+"sort": "19"
+},{
+"artists_name_disp" : "Mr.Children",
+"artists_name_img": "",
+"music_name_disp" : "くるみ",
+"music_name_img" : "",
+"sort": "42"
+},{
+"artists_name_disp" : "光永亮太",
+"artists_name_img": "",
+"music_name_disp" : "Always",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "モーニング娘。",
+"artists_name_img": "",
+"music_name_disp" : "シャボン玉<br>Go Girl～恋のヴィクトリー～",
+"music_name_img" : "",
+"sort": "18"
+},{
+"artists_name_disp" : "森山直太朗",
+"artists_name_img": "",
+"music_name_disp" : "さくら",
+"music_name_img" : "",
+"sort": "22"
+},{
+"artists_name_disp" : "L'Arc～en～Ciel",
+"artists_name_img": "",
+"music_name_disp" : "HONEY<br>READY STEADY GO",
+"music_name_img" : "",
+"sort": "40"
+},{
+"artists_name_disp" : "ロードオブメジャー",
+"artists_name_img": "",
+"music_name_disp" : "僕らだけの歌",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

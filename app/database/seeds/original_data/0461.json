@@ -1,0 +1,51 @@
+{"date" : "1997.04.25.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "THE YELLOW MONKEY",
+"artists_name_img": "",
+"music_name_disp" : "LOVE LOVE SHOW",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "本気がいっぱい",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "猿岩石",
+"artists_name_img": "",
+"music_name_disp" : "ツキ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "河村隆一（LUNA SEA）",
+"artists_name_img": "",
+"music_name_disp" : "glass",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "華原朋美",
+"artists_name_img": "",
+"music_name_disp" : "Hate tell a lie",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "広末涼子",
+"artists_name_img": "",
+"music_name_disp" : "Maji で Koi する５秒前",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "松田聖子",
+"artists_name_img": "",
+"music_name_disp" : "私だけの天使",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

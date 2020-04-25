@@ -1,0 +1,51 @@
+{"date" : "1994.03.04.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "KIX・S",
+"artists_name_img": "",
+"music_name_disp" : "LOVIN' YOU",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "光GENJI",
+"artists_name_img": "",
+"music_name_disp" : "BRAVO ! Nippon",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "高橋真梨子",
+"artists_name_img": "",
+"music_name_disp" : "遥かなる人へ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "黒夢",
+"artists_name_img": "",
+"music_name_disp" : "for dear",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "森高千里",
+"artists_name_img": "",
+"music_name_disp" : "気分爽快",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "中西圭三",
+"artists_name_img": "",
+"music_name_disp" : "A.C.E",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "東野純直",
+"artists_name_img": "",
+"music_name_disp" : "君だから",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

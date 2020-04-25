@@ -1,0 +1,75 @@
+{"date" : "2017.02.03.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "A.B.C-Z",
+"artists_name_img": "",
+"music_name_disp" : "Reboot!!!",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "水曜日のカンパネラ",
+"artists_name_img": "",
+"music_name_disp" : "一休さん",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "スキマスイッチ",
+"artists_name_img": "",
+"music_name_disp" : "奏（かなで）",
+"music_name_img" : "",
+"sort": "10"
+},{
+"artists_name_disp" : "三浦大知",
+"artists_name_img": "",
+"music_name_disp" : "EXCITE",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "YUKI",
+"artists_name_img": "",
+"music_name_disp" : "さよならバイスタンダー",
+"music_name_img" : "",
+"sort": "11"
+},{
+"artists_name_disp" : "Little Glee Monster",
+"artists_name_img": "",
+"music_name_disp" : "Joyful SPメドレー",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "Little Glee Monster",
+"artists_name_img": "",
+"music_name_disp" : "愛唄",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "Little Glee Monster",
+"artists_name_img": "",
+"music_name_disp" : "荒野の果てに",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Little Glee Monster",
+"artists_name_img": "",
+"music_name_disp" : "Jupiter",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "Little Glee Monster",
+"artists_name_img": "",
+"music_name_disp" : "Joyful, Joyful",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "Little Glee Monster",
+"artists_name_img": "",
+"music_name_disp" : "Hop Step Jump!",
+"music_name_img" : "",
+"sort": "6"
+},{}]}

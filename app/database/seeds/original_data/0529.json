@@ -1,0 +1,51 @@
+{"date" : "1998.11.13.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "hiro",
+"artists_name_img": "",
+"music_name_disp" : "見つめていたい",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "JUDY AND MARY",
+"artists_name_img": "",
+"music_name_disp" : "手紙をかくよ",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "T.M.Revolution",
+"artists_name_img": "",
+"music_name_disp" : "Burnin' X'mas",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "tohko",
+"artists_name_img": "",
+"music_name_disp" : "tohhikoh",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "over ～ EASY SHOW TIME ～　over",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "カーディガンズ",
+"artists_name_img": "",
+"music_name_disp" : "My Favourite Game",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "織田裕二",
+"artists_name_img": "",
+"music_name_disp" : "Love Somebody　",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

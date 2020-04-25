@@ -1,0 +1,51 @@
+{"date" : "1997.09.19.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "硝子の少年",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "猿岩石",
+"artists_name_img": "",
+"music_name_disp" : "オエオエオ！",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "華原朋美",
+"artists_name_img": "",
+"music_name_disp" : "たのしくたのしくやさしくね",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "吉川晃司",
+"artists_name_img": "",
+"music_name_disp" : "エロス",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "西城秀樹　with YOSHIKI（X JAPAN）",
+"artists_name_img": "",
+"music_name_disp" : "moment",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "知念理奈",
+"artists_name_img": "",
+"music_name_disp" : "PINCH ～Love Me Deeper～",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "反町隆史",
+"artists_name_img": "",
+"music_name_disp" : "Forever",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

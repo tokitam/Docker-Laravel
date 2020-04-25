@@ -1,0 +1,45 @@
+{"date" : "2008.05.23.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2048",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Aqua Timez",
+"artists_name_img": "",
+"music_name_disp" : "虹",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "大塚 愛",
+"artists_name_img": "",
+"music_name_disp" : "ロケットスニーカー",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "グループ魂",
+"artists_name_img": "",
+"music_name_disp" : "おかあさん",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "長瀬実夕",
+"artists_name_img": "",
+"music_name_disp" : "茜",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "フロー・ライダー",
+"artists_name_img": "",
+"music_name_disp" : "今夜はロウ☆ロウ☆ロウ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "蝶",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

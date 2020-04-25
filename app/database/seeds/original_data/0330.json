@@ -1,0 +1,45 @@
+{"date" : "1994.04.15.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "To Be Continued",
+"artists_name_img": "",
+"music_name_disp" : "君だけを見ていた",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "稲垣潤一",
+"artists_name_img": "",
+"music_name_disp" : "キスなら後にして",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "山田邦子＆渡辺徹",
+"artists_name_img": "",
+"music_name_disp" : "ちょーどいいのが No.1",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "諸星和己",
+"artists_name_img": "",
+"music_name_disp" : "一匹狼～LONELY WOLF～",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "小比類巻かほる",
+"artists_name_img": "",
+"music_name_disp" : "SUMMER FACTOR",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "泉谷しげる",
+"artists_name_img": "",
+"music_name_disp" : "激しい季節",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

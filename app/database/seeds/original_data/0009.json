@@ -1,0 +1,51 @@
+{"date" : "1986.12.12.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "近藤真彦",
+"artists_name_img": "",
+"music_name_disp" : "愚か者",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "子供ばんど",
+"artists_name_img": "",
+"music_name_disp" : "たどりついたらいつも雨ふり",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "小林明子",
+"artists_name_img": "",
+"music_name_disp" : "心みだれて",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "西城秀樹",
+"artists_name_img": "",
+"music_name_disp" : "約束の旅～帰港～",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "石井明美",
+"artists_name_img": "",
+"music_name_disp" : "響きは tu tu",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "長山洋子",
+"artists_name_img": "",
+"music_name_disp" : "ヴィーナス",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "柏原芳恵",
+"artists_name_img": "",
+"music_name_disp" : "途中下車",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

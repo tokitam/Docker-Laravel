@@ -1,0 +1,39 @@
+{"date" : "1992.07.17.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "GO-BANG'S",
+"artists_name_img": "",
+"music_name_disp" : "ちょっとだけハイカラ",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "RABBIT",
+"artists_name_img": "",
+"music_name_disp" : "Thank you my girl",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "サザンオールスターズ",
+"artists_name_img": "",
+"music_name_disp" : "涙のキッス",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "光GENJI",
+"artists_name_img": "",
+"music_name_disp" : "リラの咲くころバルセロナへ",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "高橋真梨子",
+"artists_name_img": "",
+"music_name_disp" : "はがゆい唇",
+"music_name_img" : "",
+"sort": "6"
+},{}]}

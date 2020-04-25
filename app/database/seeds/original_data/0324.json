@@ -1,0 +1,45 @@
+{"date" : "1994.02.25.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Cublic",
+"artists_name_img": "",
+"music_name_disp" : "そばにいて",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "REV",
+"artists_name_img": "",
+"music_name_disp" : "幾千もの情熱",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "THE 虎舞竜",
+"artists_name_img": "",
+"music_name_disp" : "ロード～第２章",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "光GENJI（６人）",
+"artists_name_img": "",
+"music_name_disp" : "BRAVO ! Nippon",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "江口洋介",
+"artists_name_img": "",
+"music_name_disp" : "愛は愛で",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "爆風スランプ",
+"artists_name_img": "",
+"music_name_disp" : "勝負は時の運だから",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

@@ -1,0 +1,261 @@
+{"date" : "2014.12.26.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "aiko",
+"artists_name_img": "",
+"music_name_disp" : "あたしの向こう",
+"music_name_img" : "",
+"sort": "12"
+},{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "GUTS !<br>迷宮ラブソング<br>誰も知らない",
+"music_name_img" : "",
+"sort": "39"
+},{
+"artists_name_disp" : "E-girls",
+"artists_name_img": "",
+"music_name_disp" : "Highschool ♡ love",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "いきものがかり",
+"artists_name_img": "",
+"music_name_disp" : "GOLDEN GIRL",
+"music_name_img" : "",
+"sort": "17"
+},{
+"artists_name_disp" : "EXILE",
+"artists_name_img": "",
+"music_name_disp" : "NEW HORIZON",
+"music_name_img" : "",
+"sort": "42"
+},{
+"artists_name_disp" : "EXILE TRIBE",
+"artists_name_img": "",
+"music_name_disp" : "24WORLD",
+"music_name_img" : "",
+"sort": "41"
+},{
+"artists_name_disp" : "AKB48",
+"artists_name_img": "",
+"music_name_disp" : "希望的リフレイン<br>ラブラドール・レトリバー<br>ポニーテールとシュシュ<br>恋するフォーチュンクッキー",
+"music_name_img" : "",
+"sort": "22"
+},{
+"artists_name_disp" : "X JAPAN",
+"artists_name_img": "",
+"music_name_disp" : "紅<br>Forever Love<br>Rusty Nail<br>Hero",
+"music_name_img" : "",
+"sort": "37"
+},{
+"artists_name_disp" : "KAT-TUN",
+"artists_name_img": "",
+"music_name_disp" : "In Fact",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "関ジャニ∞",
+"artists_name_img": "",
+"music_name_disp" : "キング オブ 男！",
+"music_name_img" : "",
+"sort": "29"
+},{
+"artists_name_disp" : "神田沙也加",
+"artists_name_img": "",
+"music_name_disp" : "雪だるまつくろう<br>生まれてはじめて",
+"music_name_img" : "",
+"sort": "24"
+},{
+"artists_name_disp" : "Kis-My-Ft2",
+"artists_name_img": "",
+"music_name_disp" : "光のシグナル",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "きゃりーぱみゅぱみゅ",
+"artists_name_img": "",
+"music_name_disp" : "ファミリーパーティー",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "愛のかたまり",
+"music_name_img" : "",
+"sort": "34"
+},{
+"artists_name_disp" : "キング・クリームソーダ&Dream5",
+"artists_name_img": "",
+"music_name_disp" : "ゲラゲラポーのうた<br>ようかい体操第一",
+"music_name_img" : "",
+"sort": "19"
+},{
+"artists_name_disp" : "倉木麻衣",
+"artists_name_img": "",
+"music_name_disp" : "Secret of my heart",
+"music_name_img" : "",
+"sort": "15"
+},{
+"artists_name_disp" : "コブクロ",
+"artists_name_img": "",
+"music_name_disp" : "今、咲き誇る花たちよ",
+"music_name_img" : "",
+"sort": "30"
+},{
+"artists_name_disp" : "ゴールデンボンバー",
+"artists_name_img": "",
+"music_name_disp" : "女々しくて",
+"music_name_img" : "",
+"sort": "20"
+},{
+"artists_name_disp" : "三代目 J Soul Brothers",
+"artists_name_img": "",
+"music_name_disp" : "R.Y.U.S.E.I.",
+"music_name_img" : "",
+"sort": "13"
+},{
+"artists_name_disp" : "椎名林檎",
+"artists_name_img": "",
+"music_name_disp" : "NIPPON",
+"music_name_img" : "",
+"sort": "33"
+},{
+"artists_name_disp" : "JUJU",
+"artists_name_img": "",
+"music_name_disp" : "ラストシーン",
+"music_name_img" : "",
+"sort": "31"
+},{
+"artists_name_disp" : "Superfly",
+"artists_name_img": "",
+"music_name_disp" : "愛をからだに吹き込んで",
+"music_name_img" : "",
+"sort": "28"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "Joy!!<br>Dear WOMAN<br>Top Of The World",
+"music_name_img" : "",
+"sort": "23"
+},{
+"artists_name_disp" : "SEKAI NO OWARI",
+"artists_name_img": "",
+"music_name_disp" : "Dragon Night（アコースティックver.）",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "Sexy Zone",
+"artists_name_img": "",
+"music_name_disp" : "君にHITOMEBORE",
+"music_name_img" : "",
+"sort": "16"
+},{
+"artists_name_disp" : "TOKIO",
+"artists_name_img": "",
+"music_name_disp" : "LOVE, HOLIDAY.<br>LOVE YOU ONLY",
+"music_name_img" : "",
+"sort": "32"
+},{
+"artists_name_disp" : "西野カナ",
+"artists_name_img": "",
+"music_name_disp" : "Darling",
+"music_name_img" : "",
+"sort": "18"
+},{
+"artists_name_disp" : "乃木坂46",
+"artists_name_img": "",
+"music_name_disp" : "何度目の青空か？",
+"music_name_img" : "",
+"sort": "21"
+},{
+"artists_name_disp" : "秦 基博",
+"artists_name_img": "",
+"music_name_disp" : "ひまわりの約束",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "Perfume",
+"artists_name_img": "",
+"music_name_disp" : "Cling Cling",
+"music_name_img" : "",
+"sort": "10"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "M<br>Last minute",
+"music_name_img" : "",
+"sort": "36"
+},{
+"artists_name_disp" : "B'z",
+"artists_name_img": "",
+"music_name_disp" : "有頂天",
+"music_name_img" : "",
+"sort": "40"
+},{
+"artists_name_disp" : "Hey! Say! JUMP",
+"artists_name_img": "Hey! S<img class=\"img-txt\" src=\"\/music\/contents\/img\/heysayjump_a.gif\">y! JUMP",
+"music_name_disp" : "ウィークエンダー",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "BABYMETAL",
+"artists_name_img": "",
+"music_name_disp" : "イジメ、ダメ、ゼッタイ",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "俺たちのセレブレーション",
+"music_name_img" : "",
+"sort": "14"
+},{
+"artists_name_disp" : "Mr.Children",
+"artists_name_img": "",
+"music_name_disp" : "３６５日<br>足音 ～Be Strong",
+"music_name_img" : "",
+"sort": "38"
+},{
+"artists_name_disp" : "miwa",
+"artists_name_img": "",
+"music_name_disp" : "君に出会えたから",
+"music_name_img" : "",
+"sort": "11"
+},{
+"artists_name_disp" : "May J.",
+"artists_name_img": "",
+"music_name_disp" : "Let It Go ～ありのままで～",
+"music_name_img" : "",
+"sort": "25"
+},{
+"artists_name_disp" : "ももいろクローバーＺ",
+"artists_name_img": "",
+"music_name_disp" : "泣いてもいいんだよ",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "ゆず",
+"artists_name_img": "",
+"music_name_disp" : "雨のち晴レルヤ",
+"music_name_img" : "",
+"sort": "27"
+},{
+"artists_name_disp" : "L'Arc～en～Ciel",
+"artists_name_img": "",
+"music_name_disp" : "EVERLASTING",
+"music_name_img" : "",
+"sort": "35"
+},{
+"artists_name_disp" : "神田沙也加",
+"artists_name_img": "",
+"music_name_disp" : "生まれてはじめて（リプライズ）",
+"music_name_img" : "",
+"sort": "26"
+},{}]}

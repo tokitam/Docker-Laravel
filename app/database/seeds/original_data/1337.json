@@ -1,0 +1,65 @@
+{"date" : "2019.05.31.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2051",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "THE XXXXXX",
+"artists_name_img": "",
+"music_name_disp" : "冷静に暴れていこうか（Rearrange）",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1337/images/MlNR2SKuej.jpg",
+"sort": "6"
+},{
+"artists_name_disp" : "椎名林檎と櫻井敦司",
+"artists_name_img": "",
+"music_name_disp" : "駆け落ち者",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1337/images/wU4v2V1MGt.jpg",
+"sort": "7"
+},{
+"artists_name_disp" : "小さな恋のうたバンド feat. MONGOL800",
+"artists_name_img": "",
+"music_name_disp" : "小さな恋のうた",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1337/images/2qgUgcPrxw.jpg",
+"sort": "2"
+},{
+"artists_name_disp" : "乃木坂46",
+"artists_name_img": "",
+"music_name_disp" : "Sing Out！",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1337/images/p7YH9fGOEn.jpg",
+"sort": "1"
+},{
+"artists_name_disp" : "Hey! Say! JUMP",
+"artists_name_img": "Hey! S<img class='img-txt' src='\/music\/contents\/img\/heysayjump_a_lineup.png' alt='a'>y! JUMP",
+"music_name_disp" : "愛だけがすべて -What do you want?-",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1337/images/bsaQCf3aN1.jpg",
+"sort": "4"
+},{
+"artists_name_disp" : "布袋寅泰",
+"artists_name_img": "",
+"music_name_disp" : "Give It To The Universe (feat. MAN WITH A MISSION)",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1337/images/pUGMavS4LN.jpg",
+"sort": "3"
+},{
+"artists_name_disp" : "Little Glee Monster",
+"artists_name_img": "",
+"music_name_disp" : "君に届くまで",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1337/images/Cxt5J2Ue80.jpg",
+"sort": "5"
+},{}]}

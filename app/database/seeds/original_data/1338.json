@@ -1,0 +1,57 @@
+{"date" : "2019.06.07.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2051",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "カーリー・レイ・ジェプセン",
+"artists_name_img": "",
+"music_name_disp" : "I Really Like You<br>Now That I Found You",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1338/images/fSXkxQ7RhH.jpg",
+"sort": "5"
+},{
+"artists_name_disp" : "GENERATIONS",
+"artists_name_img": "",
+"music_name_disp" : "Brand New Story",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1338/images/SFSzFXloQ1.jpg",
+"sort": "1"
+},{
+"artists_name_disp" : "Superfly",
+"artists_name_img": "",
+"music_name_disp" : "Ambitious",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1338/images/kPdInM9PGK.jpg",
+"sort": "4"
+},{
+"artists_name_disp" : "平井 堅",
+"artists_name_img": "",
+"music_name_disp" : "いてもたっても",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1338/images/ldO6v7Y5Pq.jpg",
+"sort": "6"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "ある日願いが叶ったんだ",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1338/images/MWJjoRsUYv.jpg",
+"sort": "2"
+},{
+"artists_name_disp" : "MAN WITH A MISSION",
+"artists_name_img": "",
+"music_name_disp" : "Remember Me",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1338/images/vectX552Xw.jpg",
+"sort": "3"
+},{}]}

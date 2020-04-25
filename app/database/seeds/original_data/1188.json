@@ -1,0 +1,57 @@
+{"date" : "2014.09.26.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "マイガール Hawaiian ver",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "AKB48",
+"artists_name_img": "",
+"music_name_disp" : "RIVER<br>フライングゲット<br>心のプラカード",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "JUJU",
+"artists_name_img": "",
+"music_name_disp" : "やさしさで溢れるように<br>ラストシーン",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Superfly",
+"artists_name_img": "",
+"music_name_disp" : "Bi-Li-Li Emotion<br>愛をからだに吹き込んで",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "SEKAI NO OWARI",
+"artists_name_img": "",
+"music_name_disp" : "Dragon Night",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "Sexy Zone",
+"artists_name_img": "",
+"music_name_disp" : "BAD BOYS<br>男 never give up",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "アポロ<br>俺たちのセレブレーション",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "One Love<br>A・RA・SHI",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

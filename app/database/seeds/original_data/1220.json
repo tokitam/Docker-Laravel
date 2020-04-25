@@ -1,0 +1,39 @@
+{"date" : "2015.09.04.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "AKB48",
+"artists_name_img": "",
+"music_name_disp" : "ハロウィン・ナイト",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "A.B.C-Z",
+"artists_name_img": "",
+"music_name_disp" : "Moonlight walker",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "斉藤和義",
+"artists_name_img": "",
+"music_name_disp" : "攻めていこーぜ！",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "三代目 J Soul Brothers",
+"artists_name_img": "",
+"music_name_disp" : "Unfair World",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "Otherside",
+"music_name_img" : "",
+"sort": "5"
+},{}]}

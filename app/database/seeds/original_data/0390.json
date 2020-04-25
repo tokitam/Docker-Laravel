@@ -1,0 +1,45 @@
+{"date" : "1995.08.25.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "hitomi",
+"artists_name_img": "",
+"music_name_disp" : "GO TO THE TOP ～教えて、あの日の私は今頃どこを走り続けてる～",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "TOKIO",
+"artists_name_img": "",
+"music_name_disp" : "So Ko ナシ LOVE",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "シャ乱Ｑ",
+"artists_name_img": "",
+"music_name_disp" : "空を見なよ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "今井美樹",
+"artists_name_img": "",
+"music_name_disp" : "Ruby",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "西田ひかる",
+"artists_name_img": "",
+"music_name_disp" : "C'mon3 !",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "鈴木蘭々",
+"artists_name_img": "",
+"music_name_disp" : "泣かないぞェ",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

@@ -1,0 +1,51 @@
+{"date" : "1997.10.24.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "D-LOOP",
+"artists_name_img": "",
+"music_name_disp" : "Love me tender",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "DREAMS COME TRUE",
+"artists_name_img": "",
+"music_name_disp" : "PEACE !",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "DREAMS COME TRUE",
+"artists_name_img": "",
+"music_name_disp" : "MARRY ME ?",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Every Little Thing",
+"artists_name_img": "",
+"music_name_disp" : "Shapes of Love",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "GENERATION GAP",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "ウルフルズ",
+"artists_name_img": "",
+"music_name_disp" : "かわいいひと",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "広末涼子",
+"artists_name_img": "",
+"music_name_disp" : "風のプリズム",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

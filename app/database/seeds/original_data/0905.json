@@ -1,0 +1,51 @@
+{"date" : "2007.11.02.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2050",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Aqua Timez",
+"artists_name_img": "",
+"music_name_disp" : "小さな掌",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "大塚 愛",
+"artists_name_img": "",
+"music_name_disp" : "ポケット",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "ASHES-1969-",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "jealkb",
+"artists_name_img": "",
+"music_name_disp" : "誓い",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "NEWS",
+"artists_name_img": "",
+"music_name_disp" : "weeeek",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "ハラフウミ(原由子×風味堂)",
+"artists_name_img": "",
+"music_name_disp" : "夢を誓った木の下で",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "Mr.Children",
+"artists_name_img": "",
+"music_name_disp" : "旅立ちの唄",
+"music_name_img" : "",
+"sort": "6"
+},{}]}

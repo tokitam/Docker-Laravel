@@ -1,0 +1,51 @@
+{"date" : "2004.02.06.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "玉置成実",
+"artists_name_img": "",
+"music_name_disp" : "Shining　Star ☆忘れないから☆",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "上戸彩",
+"artists_name_img": "",
+"music_name_disp" : "愛のために。",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "L'Arc～en～Ciel",
+"artists_name_img": "",
+"music_name_disp" : "READY　STEADY　GO",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "ZONE",
+"artists_name_img": "",
+"music_name_disp" : "卒業",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "ゴスペラーズ",
+"artists_name_img": "",
+"music_name_disp" : "街角　- on the corner -",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "ジャパハリネット",
+"artists_name_img": "",
+"music_name_disp" : "哀愁交差点",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "20th　Century",
+"artists_name_img": "",
+"music_name_disp" : "ちぎれた翼",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

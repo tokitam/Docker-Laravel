@@ -1,0 +1,45 @@
+{"date" : "1997.06.20.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "D & D",
+"artists_name_img": "",
+"music_name_disp" : "SUNSHINE HERO",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "Every Little Thing",
+"artists_name_img": "",
+"music_name_disp" : "For the moment",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "カジヒデキ",
+"artists_name_img": "",
+"music_name_disp" : "恋人が待っている",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "奥田民生",
+"artists_name_img": "",
+"music_name_disp" : "野ばら",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "川本真琴",
+"artists_name_img": "",
+"music_name_disp" : "1\/2（にぶんのいち）",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "堂本光一 (KinKi Kids) & Jr.",
+"artists_name_img": "",
+"music_name_disp" : "アンダルシアに憧れて",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

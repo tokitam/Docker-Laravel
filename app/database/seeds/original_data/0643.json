@@ -1,0 +1,63 @@
+{"date" : "2001.06.29.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "ジャニーズ Jr. (☆☆I★N★G★進行形)",
+"artists_name_img": "",
+"music_name_disp" : "LOVE together",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "アゲハ蝶",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "福原裕美子",
+"artists_name_img": "",
+"music_name_disp" : "What would I do",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "矢井田瞳",
+"artists_name_img": "",
+"music_name_disp" : "Look Back Again",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "山崎まさよし",
+"artists_name_img": "",
+"music_name_disp" : "夏のモノローグ",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "三人祭",
+"artists_name_img": "",
+"music_name_disp" : "チュッ！夏パ～ティ",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "７人祭",
+"artists_name_img": "",
+"music_name_disp" : "サマーれげぇ！レインボー",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "１０人祭",
+"artists_name_img": "",
+"music_name_disp" : "ダンシング！夏祭り",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "RIP SLYME",
+"artists_name_img": "",
+"music_name_disp" : "雑念エンタテインメント",
+"music_name_img" : "",
+"sort": "10"
+},{}]}

@@ -1,0 +1,63 @@
+{"date" : "1998.10.30.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "CHARA",
+"artists_name_img": "",
+"music_name_disp" : "光と私",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "CURIO",
+"artists_name_img": "",
+"music_name_disp" : "TO BE LOUD",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "D-SHADE",
+"artists_name_img": "",
+"music_name_disp" : "Truth",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Fay ray",
+"artists_name_img": "",
+"music_name_disp" : "YURA・YURA～Vibration",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "SPEED",
+"artists_name_img": "",
+"music_name_disp" : "ALL MY TRUE LOVE",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "ジャニーズ Jr.",
+"artists_name_img": "",
+"music_name_disp" : "HOLIDAY",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "ジャニーズ Jr.",
+"artists_name_img": "",
+"music_name_disp" : "BEN",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "ジャニーズ Jr.",
+"artists_name_img": "",
+"music_name_disp" : "ABC",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "For My Dear･･･",
+"music_name_img" : "",
+"sort": "10"
+},{}]}

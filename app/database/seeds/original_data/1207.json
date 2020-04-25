@@ -1,0 +1,51 @@
+{"date" : "2015.05.15.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "青空の下､キミのとなり",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "AKB48",
+"artists_name_img": "",
+"music_name_disp" : "僕たちは戦わない",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "A.B.C-Z",
+"artists_name_img": "",
+"music_name_disp" : "Shower Gate",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "KANA-BOON",
+"artists_name_img": "",
+"music_name_disp" : "なんでもねだり",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "高畑充希＆城田 優",
+"artists_name_img": "",
+"music_name_disp" : "夢はひそかに (Duet version)",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "西内まりや",
+"artists_name_img": "",
+"music_name_disp" : "ありがとうForever...",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "flumpool",
+"artists_name_img": "",
+"music_name_disp" : "とある始まりの情景 ～Bookstore on the hill～",
+"music_name_img" : "",
+"sort": "6"
+},{}]}

@@ -1,0 +1,51 @@
+{"date" : "2001.11.30.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "関東裸会 三羽烏",
+"artists_name_img": "",
+"music_name_disp" : "答 ～answer is my life～",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "松浦亜弥",
+"artists_name_img": "",
+"music_name_disp" : "100回のKISS",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "hiro",
+"artists_name_img": "",
+"music_name_disp" : "Confession",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "滝沢秀明",
+"artists_name_img": "",
+"music_name_disp" : "Girl Friend",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "Fighting Spirit",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "平井堅",
+"artists_name_img": "",
+"music_name_disp" : "One Love Wonderful World",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "PaniCrew",
+"artists_name_img": "",
+"music_name_disp" : "LOVEfilia",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

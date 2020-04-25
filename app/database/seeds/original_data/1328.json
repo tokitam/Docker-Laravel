@@ -1,0 +1,97 @@
+{"date" : "2019.02.01.FRI<br>PM 7:00",
+"date_disp_flag" : "1",
+"free" : "テレビ朝日開局60周年 3時間SP<br>",
+"biko" :"",
+"biko2" :"",
+"onair" : "2144",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "君のうた<br>感謝カンゲキ雨嵐",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/FYHbFpKg50.jpg",
+"sort": "11"
+},{
+"artists_name_disp" : "大塚 愛",
+"artists_name_img": "",
+"music_name_disp" : "さくらんぼ",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/4chXNAZp5j.jpg",
+"sort": "4"
+},{
+"artists_name_disp" : "ORANGE RANGE",
+"artists_name_img": "",
+"music_name_disp" : "花",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/42WK8agGl3.jpg",
+"sort": "6"
+},{
+"artists_name_disp" : "THE YELLOW MONKEY",
+"artists_name_img": "",
+"music_name_disp" : "太陽が燃えている",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/iXMqwKrVfE.jpg",
+"sort": "1"
+},{
+"artists_name_disp" : "ZARD・坂井泉水＆倉木麻衣",
+"artists_name_img": "",
+"music_name_disp" : "負けないで",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/Syjldbs9It.jpg",
+"sort": "9"
+},{
+"artists_name_disp" : "GENERATIONS",
+"artists_name_img": "",
+"music_name_disp" : "AGEHA",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/epgt2MVwIU.jpg",
+"sort": "5"
+},{
+"artists_name_disp" : "ジャニーズWEST",
+"artists_name_img": "",
+"music_name_disp" : "ホメチギリスト",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/WbyRUKjUg7.jpg",
+"sort": "3"
+},{
+"artists_name_disp" : "Superfly",
+"artists_name_img": "",
+"music_name_disp" : "Force",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/gGV5vJAAhR.jpg",
+"sort": "8"
+},{
+"artists_name_disp" : "東京フィルハーモニー交響楽団",
+"artists_name_img": "",
+"music_name_disp" : "ドクターXのテーマ",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/SCoJlJFAuq.jpg",
+"sort": "7"
+},{
+"artists_name_disp" : "乃木坂46",
+"artists_name_img": "",
+"music_name_disp" : "シンクロニシティ",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/KPPr66l8px.jpg",
+"sort": "10"
+},{
+"artists_name_disp" : "秦 基博",
+"artists_name_img": "",
+"music_name_disp" : "ひまわりの約束",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1328/images/jpTEt94sdd.jpg",
+"sort": "2"
+},{}]}

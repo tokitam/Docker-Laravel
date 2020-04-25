@@ -1,0 +1,51 @@
+{"date" : "1998.02.13.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Blankey Jet City",
+"artists_name_img": "",
+"music_name_disp" : "赤いタンバリン",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "deeps",
+"artists_name_img": "",
+"music_name_disp" : "ハピネス",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "DREAMS COME TRUE",
+"artists_name_img": "",
+"music_name_disp" : "BEAUTIFUL BOY",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Every Little Thing",
+"artists_name_img": "",
+"music_name_disp" : "Time goes by",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "F-BLOOD（藤井フミヤ、藤井尚之）",
+"artists_name_img": "",
+"music_name_disp" : "SHOOTING STAR",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "Can do ! Can go !",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "猿岩石",
+"artists_name_img": "",
+"music_name_disp" : "君に会いに行こう",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

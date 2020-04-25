@@ -1,0 +1,51 @@
+{"date" : "2006.07.14.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2054",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "aiko",
+"artists_name_img": "",
+"music_name_disp" : "雲は白リンゴは赤",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "華原朋美",
+"artists_name_img": "",
+"music_name_disp" : "あのさよならにさよならを",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "LAYLA",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "DJ OZMA",
+"artists_name_img": "",
+"music_name_disp" : "純情～スンジョン～",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "堂本光一",
+"artists_name_img": "",
+"music_name_disp" : "Deep in your heart",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "藤井フミヤ",
+"artists_name_img": "",
+"music_name_disp" : "下北以上 原宿未満",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "リップスライムとくるり",
+"artists_name_img": "",
+"music_name_disp" : "ラヴぃ",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

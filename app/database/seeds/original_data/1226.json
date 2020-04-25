@@ -1,0 +1,45 @@
+{"date" : "2015.11.20.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "AI",
+"artists_name_img": "",
+"music_name_disp" : "Story",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "aiko",
+"artists_name_img": "",
+"music_name_disp" : "プラマイ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "HKT48 feat.氣志團",
+"artists_name_img": "",
+"music_name_disp" : "しぇからしか！",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "カーリー・レイ・ジェプセン",
+"artists_name_img": "",
+"music_name_disp" : "I Really Like You",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "夢を見れば傷つくこともある",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "JUJU",
+"artists_name_img": "",
+"music_name_disp" : "What You Want",
+"music_name_img" : "",
+"sort": "5"
+},{}]}

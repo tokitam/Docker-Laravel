@@ -1,0 +1,57 @@
+{"date" : "2004.06.25.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "関ジャニ∞",
+"artists_name_img": "",
+"music_name_disp" : "浪花いろは節",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "はなわ",
+"artists_name_img": "",
+"music_name_disp" : "伝説の男　～ビバ・ガッツ～",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "nobodyknows+",
+"artists_name_img": "",
+"music_name_disp" : "ココロオドル",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "nobodyknows+",
+"artists_name_img": "",
+"music_name_disp" : "ススミダス→",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "nobodyknows+",
+"artists_name_img": "",
+"music_name_disp" : "以来絶頂",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "RAG　FAIR",
+"artists_name_img": "",
+"music_name_disp" : "HANA",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "後藤真希",
+"artists_name_img": "",
+"music_name_disp" : "横浜蜃気楼",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "スキマスイッチ",
+"artists_name_img": "",
+"music_name_disp" : "奏（かなで）",
+"music_name_img" : "",
+"sort": "9"
+},{}]}

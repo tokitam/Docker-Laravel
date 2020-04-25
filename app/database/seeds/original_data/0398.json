@@ -1,0 +1,51 @@
+{"date" : "1995.11.10.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "DREAMS COME TRUE",
+"artists_name_img": "",
+"music_name_disp" : "LOVE LOVE LOVE",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "DREAMS COME TRUE",
+"artists_name_img": "",
+"music_name_disp" : "ROMANCE",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "俺たちに明日はある",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "TRF",
+"artists_name_img": "",
+"music_name_disp" : "BRAND NEW TOMORROW",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "ZOO",
+"artists_name_img": "",
+"music_name_disp" : "Choo Choo TRAIN",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "小泉今日子",
+"artists_name_img": "",
+"music_name_disp" : "BEAUTIFUL GIRLS",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "小沢健二",
+"artists_name_img": "",
+"music_name_disp" : "さよならなんて云えないよ",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

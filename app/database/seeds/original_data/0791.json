@@ -1,0 +1,63 @@
+{"date" : "2005.04.01.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "A・RA・SHI<br>a Day in Our Life<br>サクラ咲ケ",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "175Ｒ",
+"artists_name_img": "",
+"music_name_disp" : "空に唄えば<br>グラフィティー",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "中島美嘉",
+"artists_name_img": "",
+"music_name_disp" : "ＷＩＬＬ<br>朧月夜～祈り",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "アゲハ蝶<br>ＲＯＬＬ",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "ａｉｋｏ",
+"artists_name_img": "",
+"music_name_disp" : "カブトムシ<br>Ｓｍｏｏｃｈ！",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "Ｌ’Ａｒｃ～ｅｎ～Ｃｉｅｌ",
+"artists_name_img": "",
+"music_name_disp" : "ＨＥＡＶＥＮ’Ｓ　ＤＲＩＶＥ<br>Ｎｅｗ　Ｗｏｒｌｄ",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "マライア・キャリー",
+"artists_name_img": "",
+"music_name_disp" : "Ｗｅ　Ｂｅｌｏｎｇ　Ｔｏｇｅｔｈｅｒ",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "Ｂ’ｚ",
+"artists_name_img": "",
+"music_name_disp" : "ｌｏｖｅ　ｍｅ,　Ｉ　ｌｏｖｅ　ｙｏｕ<br>愛のバクダン",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "ＺＯＮＥ",
+"artists_name_img": "",
+"music_name_disp" : "secretbase～君がくれたもの～",
+"music_name_img" : "",
+"sort": "10"
+},{}]}

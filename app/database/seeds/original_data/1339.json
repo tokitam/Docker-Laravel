@@ -1,0 +1,57 @@
+{"date" : "2019.06.14.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2051",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "aiko",
+"artists_name_img": "",
+"music_name_disp" : "milk",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1339/images/fmtUnCwAaC.jpg",
+"sort": "6"
+},{
+"artists_name_disp" : "King & Prince",
+"artists_name_img": "",
+"music_name_disp" : "シンデレラガール<br>君に ありがとう",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1339/images/ofSycytUNl.jpg",
+"sort": "2"
+},{
+"artists_name_disp" : "GENERATIONS vs THE RAMPAGE",
+"artists_name_img": "",
+"music_name_disp" : "SHOOT IT OUT",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1339/images/tspItralCl.png",
+"sort": "5"
+},{
+"artists_name_disp" : "sumika",
+"artists_name_img": "",
+"music_name_disp" : "イコール",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1339/images/9jthyh2d7t.jpg",
+"sort": "3"
+},{
+"artists_name_disp" : "NEWS",
+"artists_name_img": "",
+"music_name_disp" : "トップガン",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1339/images/YVYxNJRL2U.jpg",
+"sort": "4"
+},{
+"artists_name_disp" : "Foorin",
+"artists_name_img": "",
+"music_name_disp" : "パプリカ",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1339/images/sUHhxT0QfI.jpg",
+"sort": "1"
+},{}]}

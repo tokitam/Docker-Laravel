@@ -1,0 +1,261 @@
+{"date" : "2007.12.21.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2300",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "aiko",
+"artists_name_img": "",
+"music_name_disp" : "横顔",
+"music_name_img" : "",
+"sort": "32"
+},{
+"artists_name_disp" : "秋川雅史",
+"artists_name_img": "",
+"music_name_disp" : "千の風になって",
+"music_name_img" : "",
+"sort": "14"
+},{
+"artists_name_disp" : "Aqua Timez",
+"artists_name_img": "",
+"music_name_disp" : "しおり",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "絢香",
+"artists_name_img": "",
+"music_name_disp" : "Jewelry day",
+"music_name_img" : "",
+"sort": "12"
+},{
+"artists_name_disp" : "絢香×コブクロ",
+"artists_name_img": "",
+"music_name_disp" : "WINDING ROAD",
+"music_name_img" : "",
+"sort": "38"
+},{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "Love so sweet",
+"music_name_img" : "",
+"sort": "21"
+},{
+"artists_name_disp" : "いきものがかり",
+"artists_name_img": "",
+"music_name_disp" : "茜色の約束",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "EXILE",
+"artists_name_img": "",
+"music_name_disp" : "時の描片～トキノカケラ～",
+"music_name_img" : "",
+"sort": "24"
+},{
+"artists_name_disp" : "大塚 愛",
+"artists_name_img": "",
+"music_name_disp" : "PEACH",
+"music_name_img" : "",
+"sort": "20"
+},{
+"artists_name_disp" : "ORANGE RANGE",
+"artists_name_img": "",
+"music_name_disp" : "イケナイ太陽",
+"music_name_img" : "",
+"sort": "22"
+},{
+"artists_name_disp" : "KAT-TUN",
+"artists_name_img": "",
+"music_name_disp" : "喜びの歌",
+"music_name_img" : "",
+"sort": "25"
+},{
+"artists_name_disp" : "関ジャニ∞",
+"artists_name_img": "",
+"music_name_disp" : "ズッコケ男道",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "永遠に",
+"music_name_img" : "",
+"sort": "33"
+},{
+"artists_name_disp" : "桑田佳祐",
+"artists_name_img": "",
+"music_name_disp" : "明日晴れるかな",
+"music_name_img" : "",
+"sort": "39"
+},{
+"artists_name_disp" : "倖田來未",
+"artists_name_img": "",
+"music_name_disp" : "愛のうた",
+"music_name_img" : "",
+"sort": "23"
+},{
+"artists_name_disp" : "コブクロ",
+"artists_name_img": "",
+"music_name_disp" : "蕾（つぼみ）",
+"music_name_img" : "",
+"sort": "19"
+},{
+"artists_name_disp" : "湘南乃風",
+"artists_name_img": "",
+"music_name_disp" : "睡蓮花",
+"music_name_img" : "",
+"sort": "10"
+},{
+"artists_name_disp" : "スキマスイッチ",
+"artists_name_img": "",
+"music_name_disp" : "マリンスノウ",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "Christmas Night",
+"music_name_img" : "",
+"sort": "18"
+},{
+"artists_name_disp" : "タッキー&翼",
+"artists_name_img": "",
+"music_name_disp" : "SAMURAI",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "チャットモンチー",
+"artists_name_img": "",
+"music_name_disp" : "とび魚のバタフライ",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "TOKIO",
+"artists_name_img": "",
+"music_name_disp" : "青春（SEISYuN)",
+"music_name_img" : "",
+"sort": "13"
+},{
+"artists_name_disp" : "DREAMS COME TRUE",
+"artists_name_img": "",
+"music_name_disp" : "ア・イ・シ・テ・ルのサイン　～わたしたちの未来予想図～",
+"music_name_img" : "",
+"sort": "28"
+},{
+"artists_name_disp" : "中島美嘉",
+"artists_name_img": "",
+"music_name_disp" : "LIFE",
+"music_name_img" : "",
+"sort": "34"
+},{
+"artists_name_disp" : "NEWS",
+"artists_name_img": "",
+"music_name_disp" : "weeeek",
+"music_name_img" : "",
+"sort": "31"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "Together When...",
+"music_name_img" : "",
+"sort": "36"
+},{
+"artists_name_disp" : "B'z",
+"artists_name_img": "",
+"music_name_disp" : "SUPER LOVE SONG",
+"music_name_img" : "",
+"sort": "27"
+},{
+"artists_name_disp" : "平井 堅",
+"artists_name_img": "",
+"music_name_disp" : "君の好きなとこ",
+"music_name_img" : "",
+"sort": "29"
+},{
+"artists_name_disp" : "FUNKY MONKEY BABYS",
+"artists_name_img": "",
+"music_name_disp" : "Lovin' Life",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "Ｖ6",
+"artists_name_img": "",
+"music_name_disp" : "way of life",
+"music_name_img" : "",
+"sort": "16"
+},{
+"artists_name_disp" : "Hey! Say! JUMP",
+"artists_name_img": "Hey! S<img class=\"img-txt\" src=\"\/music\/contents\/img\/heysayjump_a.gif\">y! JUMP",
+"music_name_disp" : "Ultra Music Power",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "リンク",
+"music_name_img" : "",
+"sort": "17"
+},{
+"artists_name_disp" : "槇原敬之",
+"artists_name_img": "",
+"music_name_disp" : "GREEN DAYS",
+"music_name_img" : "",
+"sort": "11"
+},{
+"artists_name_disp" : "Mr.Children",
+"artists_name_img": "",
+"music_name_disp" : "旅立ちの唄",
+"music_name_img" : "",
+"sort": "37"
+},{
+"artists_name_disp" : "mihimaru GT",
+"artists_name_img": "",
+"music_name_disp" : "I SHOULD BE SO LUCKY",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "YUI",
+"artists_name_img": "",
+"music_name_disp" : "CHE.R.RY",
+"music_name_img" : "",
+"sort": "15"
+},{
+"artists_name_disp" : "L'Arc～en～Ciel",
+"artists_name_img": "",
+"music_name_disp" : "Hurry Xmas",
+"music_name_img" : "",
+"sort": "35"
+},{
+"artists_name_disp" : "RIP SLYME",
+"artists_name_img": "",
+"music_name_disp" : "熱帯夜",
+"music_name_img" : "",
+"sort": "30"
+},{
+"artists_name_disp" : "KAT-TUN",
+"artists_name_img": "",
+"music_name_disp" : "Keep the faith",
+"music_name_img" : "",
+"sort": "25"
+},{
+"artists_name_disp" : "桑田佳祐",
+"artists_name_img": "",
+"music_name_disp" : "ダーリン",
+"music_name_img" : "",
+"sort": "39"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "弾丸ファイター",
+"music_name_img" : "",
+"sort": "18"
+},{
+"artists_name_disp" : "福山雅治",
+"artists_name_img": "",
+"music_name_disp" : "vs.　～知覚と快楽の螺旋～群 青　～ultramarine～",
+"music_name_img" : "",
+"sort": "26"
+},{}]}

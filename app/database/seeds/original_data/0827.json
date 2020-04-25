@@ -1,0 +1,45 @@
+{"date" : "2006.02.03.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2054",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "絢香ayaka",
+"artists_name_img": "",
+"music_name_disp" : "I believe",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "UVERworld",
+"artists_name_img": "",
+"music_name_disp" : "just Melody",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "ウルフルズ",
+"artists_name_img": "",
+"music_name_disp" : "サムライソウル",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "ENDLICHERI☆ENDLICHERI",
+"artists_name_img": "",
+"music_name_disp" : "ソメイヨシノ",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "HOTEI vs RIP SLYME",
+"artists_name_img": "",
+"music_name_disp" : "BATTLE FUNKASTIC",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "WaT",
+"artists_name_img": "",
+"music_name_disp" : "５センチ。",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

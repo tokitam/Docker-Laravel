@@ -1,0 +1,45 @@
+{"date" : "2006.09.22.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2054",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "aiko",
+"artists_name_img": "",
+"music_name_disp" : "瞳",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "夏音",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "サザンオールスターズ",
+"artists_name_img": "",
+"music_name_disp" : "Ya Ya（あの<ruby><rb>時代<\/rb><rp>(<\/rp><rt>とき<\/rt><rp>)<\/rp><\/ruby>を忘れない）<br>DIRTY OLD MAN～さらば夏よ～",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "湘南乃風",
+"artists_name_img": "",
+"music_name_disp" : "いつも誰かのせいにしてばっかりだった俺",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "Winding Road",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "長瀬智也",
+"artists_name_img": "",
+"music_name_disp" : "宙船（そらふね）",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

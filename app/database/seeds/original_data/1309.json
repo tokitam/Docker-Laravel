@@ -1,0 +1,51 @@
+{"date" : "2018.05.25.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2051",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "TWICE ",
+"artists_name_img": "",
+"music_name_disp" : "What is Love?",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "E-girls",
+"artists_name_img": "",
+"music_name_disp" : "Show Time",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "AK-69 feat.Toshl（X JAPAN）",
+"artists_name_img": "",
+"music_name_disp" : "BRAVE",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "King & Prince",
+"artists_name_img": "",
+"music_name_disp" : "シンデレラガール",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "高橋 優",
+"artists_name_img": "",
+"music_name_disp" : "プライド",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "TWICE",
+"artists_name_img": "",
+"music_name_disp" : "Wake Me Up",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "LiSA",
+"artists_name_img": "",
+"music_name_disp" : "Catch the Moment",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

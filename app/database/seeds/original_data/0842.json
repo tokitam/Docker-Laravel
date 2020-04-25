@@ -1,0 +1,51 @@
+{"date" : "2006.06.09.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2054",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "ＡＫＢ４８",
+"artists_name_img": "",
+"music_name_disp" : "スカート、ひらり",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "Ｅｖｅｒｙ Ｌｉｔｔｌｅ Ｔｈｉｎｇ",
+"artists_name_img": "",
+"music_name_disp" : "ハイファイ メッセージ",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "関ジャニ∞",
+"artists_name_img": "",
+"music_name_disp" : "<ruby><rb>∞<\/rb><rp>(<\/rp><rt>オオ<\/rt><rp>)<\/rp><\/ruby>ＳＡＫＡおばちゃんＲＯＣＫ",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "キャプテンストライダム",
+"artists_name_img": "",
+"music_name_disp" : "風船ガム",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "中島美嘉",
+"artists_name_img": "",
+"music_name_disp" : "ＡＬＬ ＨＡＮＤＳ ＴＯＧＥＴＨＥＲ",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "平井 堅",
+"artists_name_img": "",
+"music_name_disp" : "ｈｕｇ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Ｂ’ｚ",
+"artists_name_img": "",
+"music_name_disp" : "ＳＰＬＡＳＨ！",
+"music_name_img" : "",
+"sort": "2"
+},{}]}

@@ -1,0 +1,51 @@
+{"date" : "1999.06.25.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "kiroro",
+"artists_name_img": "",
+"music_name_disp" : "最後のKiss",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "L'Arc～en～Ciel",
+"artists_name_img": "",
+"music_name_disp" : "Pieces",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "SHAZNA",
+"artists_name_img": "",
+"music_name_disp" : "Tokyo Ballet Reprise",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "TOKIO",
+"artists_name_img": "",
+"music_name_disp" : "何度も夢の中でくり返すラブ・ソング",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "TRICERATOPS",
+"artists_name_img": "",
+"music_name_disp" : "GOING TO THE MOON",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "太陽とシスコムーン",
+"artists_name_img": "",
+"music_name_disp" : "ガタメキラ",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "八反安未果",
+"artists_name_img": "",
+"music_name_disp" : "SHOOTING STAR",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

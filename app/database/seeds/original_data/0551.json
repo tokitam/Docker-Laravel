@@ -1,0 +1,51 @@
+{"date" : "1999.05.28.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "AN-J",
+"artists_name_img": "",
+"music_name_disp" : "笑顔がみえる場所～I WANNA GO～",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "フラワー",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "ZEPPET STORE",
+"artists_name_img": "",
+"music_name_disp" : "もっともっと",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "ラクリマ・クリスティー",
+"artists_name_img": "",
+"music_name_disp" : "Without you",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "森高千里",
+"artists_name_img": "",
+"music_name_disp" : "まひるの星",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "内藤剛志 with 浜田雅功(ダウンタウン）・袴田吉彦",
+"artists_name_img": "",
+"music_name_disp" : "夢の続き",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "TO BE",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

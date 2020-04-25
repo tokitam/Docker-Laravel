@@ -1,0 +1,45 @@
+{"date" : "2004.12.10.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "EXILE",
+"artists_name_img": "",
+"music_name_disp" : "HERO",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "日野賢二　feat．　ZEEBRA",
+"artists_name_img": "",
+"music_name_disp" : "GO　FOR　DA　GOLD！",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "リュ・シウォン",
+"artists_name_img": "",
+"music_name_disp" : "約束",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "関ジャニ∞(エイト",
+"artists_name_img": "",
+"music_name_disp" : "冬のリヴィエラ、浪花いろは節（Winter　Rock　Mix）",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "ホワイトロード",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "ROSSO",
+"artists_name_img": "",
+"music_name_disp" : "アウトサイダー",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

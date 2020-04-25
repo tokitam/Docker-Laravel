@@ -1,0 +1,51 @@
+{"date" : "1998.08.28.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Blankey Jet City",
+"artists_name_img": "",
+"music_name_disp" : "ダンデライオン",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "PAMELAH",
+"artists_name_img": "",
+"music_name_disp" : "キズナ",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "PUFFY",
+"artists_name_img": "",
+"music_name_disp" : "たららん",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "the brilliant green",
+"artists_name_img": "",
+"music_name_disp" : "冷たい花",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "tohko",
+"artists_name_img": "",
+"music_name_disp" : "It's all us from the motion picture \"BEAT\"",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "篠原ともえ",
+"artists_name_img": "",
+"music_name_disp" : "anything",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "少年隊",
+"artists_name_img": "",
+"music_name_disp" : "愛と沈黙",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

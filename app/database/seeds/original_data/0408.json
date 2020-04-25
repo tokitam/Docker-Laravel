@@ -1,0 +1,45 @@
+{"date" : "1996.01.26.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "グロリアス",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "L→R",
+"artists_name_img": "",
+"music_name_disp" : "GAME",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "MANISH",
+"artists_name_img": "",
+"music_name_disp" : "この一瞬という永遠の中で",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "MADE IN JAPAN",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "カズン",
+"artists_name_img": "",
+"music_name_disp" : "冬のファンタジー",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "石嶺聡子",
+"artists_name_img": "",
+"music_name_disp" : "花",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

@@ -1,0 +1,45 @@
+{"date" : "2013.12.13.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "家入レオ",
+"artists_name_img": "",
+"music_name_disp" : "太陽の女神",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "AKB48",
+"artists_name_img": "",
+"music_name_disp" : "鈴懸の木の道で「君の微笑みを夢に見る」と言ってしまったら僕たちの関係はどう変わってしまうのか、僕なりに何日か考えた上でのやや気恥ずかしい結論のようなもの",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "三代目 J Soul Brothers",
+"artists_name_img": "",
+"music_name_disp" : "SO RIGHT",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "シャレオツ",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "ナオト・インティライミ",
+"artists_name_img": "",
+"music_name_disp" : "手紙",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "舞祭組",
+"artists_name_img": "",
+"music_name_disp" : "棚からぼたもち",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

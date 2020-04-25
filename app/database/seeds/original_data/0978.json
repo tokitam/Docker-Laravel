@@ -1,0 +1,51 @@
+{"date" : "2009.08.07.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "青山テルマ",
+"artists_name_img": "",
+"music_name_disp" : "忘れないよ",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "今井翼",
+"artists_name_img": "",
+"music_name_disp" : "虜",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "加藤ミリヤ",
+"artists_name_img": "",
+"music_name_disp" : "Aitai",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "コブクロ",
+"artists_name_img": "",
+"music_name_disp" : "サヨナラ HERO",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "Superfly",
+"artists_name_img": "",
+"music_name_disp" : "恋する瞳は美しい",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "SPEED",
+"artists_name_img": "",
+"music_name_disp" : "Wake Me Up ! -RAM RIDER MIX-",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "両さん",
+"artists_name_img": "",
+"music_name_disp" : "こちら葛飾区亀有公園前派出所",
+"music_name_img" : "こちら<img class=\"img-txt\" src=\"\/music\/contents\/img\/katsu.gif\" style=\"vertical-align:-0.4em;\">飾区亀有公園前派出所",
+"sort": "1"
+},{}]}

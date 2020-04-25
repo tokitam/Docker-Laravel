@@ -1,0 +1,57 @@
+{"date" : "2016.07.08.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "家入レオ",
+"artists_name_img": "",
+"music_name_disp" : "君がくれた夏",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "indigo la End",
+"artists_name_img": "",
+"music_name_disp" : "藍色好きさ",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "EXILE THE SECOND",
+"artists_name_img": "",
+"music_name_disp" : "YEAH!! YEAH!! YEAH!!",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "関ジャニ∞",
+"artists_name_img": "",
+"music_name_disp" : "罪と夏",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "水曜日のカンパネラ",
+"artists_name_img": "",
+"music_name_disp" : "ツチノコ",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "高橋 優",
+"artists_name_img": "",
+"music_name_disp" : "産まれた理由",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "フィフス･ハーモニー",
+"artists_name_img": "",
+"music_name_disp" : "ワーク・フロム・ホーム",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "UNISON SQUARE GARDEN",
+"artists_name_img": "",
+"music_name_disp" : "シュガーソングとビターステップ",
+"music_name_img" : "",
+"sort": "5"
+},{}]}

@@ -1,0 +1,51 @@
+{"date" : "1995.06.09.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "ずっと２人で…",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "HOUND DOG",
+"artists_name_img": "",
+"music_name_disp" : "おまえを決してはなさない",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "MY LITTLE LOVER",
+"artists_name_img": "",
+"music_name_disp" : "Man & Woman",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "しようよ",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "高橋由美子",
+"artists_name_img": "",
+"music_name_disp" : "すき...でもすき",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "中村あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "キライになれない",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "福山雅治",
+"artists_name_img": "",
+"music_name_disp" : "風をさがしてる",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

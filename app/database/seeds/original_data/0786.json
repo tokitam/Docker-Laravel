@@ -1,0 +1,57 @@
+{"date" : "2005.02.04.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "D-51",
+"artists_name_img": "",
+"music_name_disp" : "NO　MORE　CRY",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "KAT-TUN",
+"artists_name_img": "",
+"music_name_disp" : "GOLD",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "KAT-TUN",
+"artists_name_img": "",
+"music_name_disp" : "絆",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Janne　Da　Arc",
+"artists_name_img": "",
+"music_name_disp" : "月光花",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "島谷ひとみ",
+"artists_name_img": "",
+"music_name_disp" : "Garnet　Moon",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "W",
+"artists_name_img": "",
+"music_name_disp" : "恋のフーガ",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "BoA",
+"artists_name_img": "",
+"music_name_disp" : "LISTEN　TO　MY　HEART",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "ソニン",
+"artists_name_img": "",
+"music_name_disp" : "あすなろ銀河",
+"music_name_img" : "",
+"sort": "9"
+},{}]}

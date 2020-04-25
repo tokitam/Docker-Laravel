@@ -1,0 +1,51 @@
+{"date" : "1999.02.05.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Dir en grey",
+"artists_name_img": "",
+"music_name_disp" : "残-ZAN-",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "Winter,again",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "一秒のOthello　～君に選ばれたい～",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "T.M.Revolution",
+"artists_name_img": "",
+"music_name_disp" : "WILD RUSH",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "サーフィス",
+"artists_name_img": "",
+"music_name_disp" : "なにしてんの",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "観月ありさ",
+"artists_name_img": "",
+"music_name_disp" : "朝陽のあたる橋",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "椎名林檎",
+"artists_name_img": "",
+"music_name_disp" : "ここでキスして。",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

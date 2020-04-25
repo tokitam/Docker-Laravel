@@ -1,0 +1,81 @@
+{"date" : "2019.07.05.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2145",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "A・RA・SHI<br>きっと大丈夫<br>Sakura",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1341/images/qRcyKVEhYY.jpg",
+"sort": "9"
+},{
+"artists_name_disp" : "E-girls",
+"artists_name_img": "",
+"music_name_disp" : "シンデレラフィット",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1341/images/OFwLwhZfew.jpg",
+"sort": "2"
+},{
+"artists_name_disp" : "Kis-My-Ft2",
+"artists_name_img": "",
+"music_name_disp" : "HANDS UP",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1341/images/0lKuRTlV74.jpg",
+"sort": "1"
+},{
+"artists_name_disp" : "KREVA",
+"artists_name_img": "",
+"music_name_disp" : "音色 ～2019 Ver.～",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1341/images/mC0I5q9QWF.jpg",
+"sort": "4"
+},{
+"artists_name_disp" : "DAOKO × MIYAVI",
+"artists_name_img": "",
+"music_name_disp" : "千客万来",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1341/images/1ALwd9aS35.jpg",
+"sort": "3"
+},{
+"artists_name_disp" : "DA PUMP",
+"artists_name_img": "",
+"music_name_disp" : "P.A.R.T.Y. ～ユニバース・フェスティバル～",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1341/images/DVL5tF4XEX.jpg",
+"sort": "6"
+},{
+"artists_name_disp" : "TWICE",
+"artists_name_img": "",
+"music_name_disp" : "HAPPY HAPPY<br>Breakthrough",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1341/images/xEAf3AYtji.jpg",
+"sort": "7"
+},{
+"artists_name_disp" : "三浦大知",
+"artists_name_img": "",
+"music_name_disp" : "片隅",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1341/images/4U1cwfTC1z.jpg",
+"sort": "5"
+},{
+"artists_name_disp" : "MIYAVI vs KREVA vs 三浦大知",
+"artists_name_img": "",
+"music_name_disp" : "Rain Dance",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1341/images/sQ0RzH8AsF.jpg",
+"sort": "8"
+},{}]}

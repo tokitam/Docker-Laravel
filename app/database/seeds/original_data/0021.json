@@ -1,0 +1,57 @@
+{"date" : "1987.03.06.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "135",
+"artists_name_img": "",
+"music_name_disp" : "ウォーアイニィー",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "チェッカーズ",
+"artists_name_img": "",
+"music_name_disp" : "I Love You SAYONARA",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "河合その子",
+"artists_name_img": "",
+"music_name_disp" : "哀愁のカルナバル",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "菊池桃子",
+"artists_name_img": "",
+"music_name_disp" : "アイドルを捜せ",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "早見優",
+"artists_name_img": "",
+"music_name_disp" : "ハートは戻らない",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "田原俊彦",
+"artists_name_img": "",
+"music_name_disp" : "KID",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "柏原芳恵",
+"artists_name_img": "",
+"music_name_disp" : "春なのに",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "堀ちえみ",
+"artists_name_img": "",
+"music_name_disp" : "愛を今信じていたい",
+"music_name_img" : "",
+"sort": "9"
+},{}]}

@@ -1,0 +1,57 @@
+{"date" : "1987.02.20.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "A-JARI",
+"artists_name_img": "",
+"music_name_disp" : "SHADOW OF LOVE",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "SHOW-YA",
+"artists_name_img": "",
+"music_name_disp" : "その後で殺したい",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "小泉今日子",
+"artists_name_img": "",
+"music_name_disp" : "水のルージュ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "少年隊",
+"artists_name_img": "",
+"music_name_disp" : "Stripe Blue",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "新田恵利",
+"artists_name_img": "",
+"music_name_disp" : "若草の招待状",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "男闘呼組",
+"artists_name_img": "",
+"music_name_disp" : "TENSION！",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "長山洋子",
+"artists_name_img": "",
+"music_name_disp" : "ユア・マイ・ラブ",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "牧野アンナ",
+"artists_name_img": "",
+"music_name_disp" : "Love Song 探して",
+"music_name_img" : "",
+"sort": "9"
+},{}]}

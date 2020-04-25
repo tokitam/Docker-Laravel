@@ -1,0 +1,51 @@
+{"date" : "1999.10.22.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "生きがい",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "hitomi",
+"artists_name_img": "",
+"music_name_disp" : "体温",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "タンポポ（モーニング娘。）",
+"artists_name_img": "",
+"music_name_disp" : "聖なる鐘がひびく夜",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "山崎まさよし",
+"artists_name_img": "",
+"music_name_disp" : "Passage",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "篠原ともえ",
+"artists_name_img": "",
+"music_name_disp" : "HAPPY POINT",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "知念里奈",
+"artists_name_img": "",
+"music_name_disp" : "IN YOUR EYES",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "Ａ・ＲＡ・ＳＨＩ",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

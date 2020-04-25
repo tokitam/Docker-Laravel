@@ -1,0 +1,51 @@
+{"date" : "1994.12.23.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "MR.CHILDREN",
+"artists_name_img": "",
+"music_name_disp" : "everybody goes",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "たぶんオーライ",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "THE 虎舞竜",
+"artists_name_img": "",
+"music_name_disp" : "ロード～第三章",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "石井竜也（米米CLUB）",
+"artists_name_img": "",
+"music_name_disp" : "手紙",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "大江千里",
+"artists_name_img": "",
+"music_name_disp" : "白い雪まいおりた",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "田村直美",
+"artists_name_img": "",
+"music_name_disp" : "ゆずれない願い",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "馬渡松子",
+"artists_name_img": "",
+"music_name_disp" : "デイドリーム・ジェネレーション",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

@@ -1,0 +1,45 @@
+{"date" : "2004.07.23.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "サンダーバード －your voice－",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "モーニング娘。",
+"artists_name_img": "",
+"music_name_disp" : "ハッピーサマーウェディング、女子かしまし物語",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "GAME、INSPIRE",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "サザンオールスターズ",
+"artists_name_img": "",
+"music_name_disp" : "君こそスターだ",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "175R",
+"artists_name_img": "",
+"music_name_disp" : "夕焼けファルセット",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "女子十二楽坊",
+"artists_name_img": "",
+"music_name_disp" : "シャイニング・エナジー",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

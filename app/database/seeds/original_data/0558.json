@@ -1,0 +1,45 @@
+{"date" : "1999.07.16.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Dir en grey",
+"artists_name_img": "",
+"music_name_disp" : "予感",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "スガシカオ",
+"artists_name_img": "",
+"music_name_disp" : "夜明けまえ",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "モーニング娘。",
+"artists_name_img": "",
+"music_name_disp" : "ふるさと",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "少年隊",
+"artists_name_img": "",
+"music_name_disp" : "情熱の一夜",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "Boys&Girls",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "鈴木あみ",
+"artists_name_img": "",
+"music_name_disp" : "BE TOGETHER",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

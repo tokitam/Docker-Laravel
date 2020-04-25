@@ -1,0 +1,51 @@
+{"date" : "2005.05.06.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "大塚 愛",
+"artists_name_img": "",
+"music_name_disp" : "ＳＭＩＬＹ",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "タッキー＆翼",
+"artists_name_img": "",
+"music_name_disp" : "仮面",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "ｉｓ　ｔｈｉｓ　ＬＯＶＥ？、ＳＴＥＰ　ｙｏｕ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Ｇａｃｋｔ",
+"artists_name_img": "",
+"music_name_disp" : "ＢＬＡＣＫ　ＳＴＯＮＥ",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "アンダーグラフ",
+"artists_name_img": "",
+"music_name_disp" : "君の声",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "スピッツ",
+"artists_name_img": "",
+"music_name_disp" : "春の歌",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "愛内里菜",
+"artists_name_img": "",
+"music_name_disp" : "赤く熱い鼓動",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

@@ -1,0 +1,51 @@
+{"date" : "2001.06.22.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "キセキのはじまり",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "郷ひろみ",
+"artists_name_img": "",
+"music_name_disp" : "獣は裸になりたがる",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "CHEMISTRY",
+"artists_name_img": "",
+"music_name_disp" : "君をさがしてた～The Wedding Song～",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Kiroro",
+"artists_name_img": "",
+"music_name_disp" : "Best Friend",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "aiko",
+"artists_name_img": "",
+"music_name_disp" : "飛行機",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "愛内里菜",
+"artists_name_img": "",
+"music_name_disp" : "Run up",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "DESTINY'S CHILD",
+"artists_name_img": "",
+"music_name_disp" : "SURVIVOR",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

@@ -1,0 +1,51 @@
+{"date" : "1993.11.26.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "CHAGE & ASKA",
+"artists_name_img": "",
+"music_name_disp" : "You are free",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "CHAGE & ASKA",
+"artists_name_img": "",
+"music_name_disp" : "なぜに君は帰らない",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "MANISH",
+"artists_name_img": "",
+"music_name_disp" : "だけど止められない",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "THE BOOM",
+"artists_name_img": "",
+"music_name_disp" : "有罪",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "井上武英",
+"artists_name_img": "",
+"music_name_disp" : "君と僕の愛の歌は",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "少年隊",
+"artists_name_img": "",
+"music_name_disp" : "EXCUSE",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "藤井フミヤ",
+"artists_name_img": "",
+"music_name_disp" : "TRUE LOVE",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

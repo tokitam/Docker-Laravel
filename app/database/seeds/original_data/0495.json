@@ -1,0 +1,57 @@
+{"date" : "1998.01.30.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "HOWEVER",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "hide（X JAPAN）",
+"artists_name_img": "",
+"music_name_disp" : "Rocket Dive",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "J-FRIENDS（TOKIO,V6,KinKi Kids）",
+"artists_name_img": "",
+"music_name_disp" : "Children's Holiday",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "MY LITTLE LOVER",
+"artists_name_img": "",
+"music_name_disp" : "空の下で",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "PUFFY",
+"artists_name_img": "",
+"music_name_disp" : "ネホリーナ ハホリーナ",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "モーニング娘。",
+"artists_name_img": "",
+"music_name_disp" : "モーニングコーヒー",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "小谷美紗子",
+"artists_name_img": "",
+"music_name_disp" : "The Stone",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "少年隊",
+"artists_name_img": "",
+"music_name_disp" : "湾岸スキーヤー",
+"music_name_img" : "",
+"sort": "9"
+},{}]}

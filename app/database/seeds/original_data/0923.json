@@ -1,0 +1,45 @@
+{"date" : "2008.05.09.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2048",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Aqua Timez",
+"artists_name_img": "",
+"music_name_disp" : "虹",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "The THREE",
+"artists_name_img": "",
+"music_name_disp" : "裏切り御免",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "SEAMO",
+"artists_name_img": "",
+"music_name_disp" : "MOTHER",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "NEWS",
+"artists_name_img": "",
+"music_name_disp" : "SUMMER TIME",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "Base Ball Bear",
+"artists_name_img": "",
+"music_name_disp" : "changes",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "BoA",
+"artists_name_img": "",
+"music_name_disp" : "Kissing you",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

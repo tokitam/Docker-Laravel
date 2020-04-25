@@ -1,0 +1,45 @@
+{"date" : "2015.01.16.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "AKB48",
+"artists_name_img": "",
+"music_name_disp" : "恋するフォーチュンクッキー<br>ヘビーローテーション<br>愛の存在",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "三代目 J Soul Brothers",
+"artists_name_img": "",
+"music_name_disp" : "花火",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "SEKAI NO OWARI",
+"artists_name_img": "",
+"music_name_disp" : "スノーマジックファンタジー",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "NEWS",
+"artists_name_img": "",
+"music_name_disp" : "KAGUYA",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "back number",
+"artists_name_img": "",
+"music_name_disp" : "ヒロイン",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "一青窈",
+"artists_name_img": "",
+"music_name_disp" : "ハナミズキ",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

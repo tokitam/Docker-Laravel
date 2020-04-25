@@ -1,0 +1,321 @@
+{"date" : "2000.12.29.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "夏の王様",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "雨のMelody",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "Hey!和",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "フラワー",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "今井絵理子",
+"artists_name_img": "",
+"music_name_disp" : "in the Name of Love",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "花＊花",
+"artists_name_img": "",
+"music_name_disp" : "あ～よかった",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "Whiteberry",
+"artists_name_img": "",
+"music_name_disp" : "夏祭り",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "SUNRISE日本",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "Ａ・ＲＡ・ＳＨＩ",
+"music_name_img" : "",
+"sort": "10"
+},{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "台風ジェネレーション Typhoon Generation",
+"music_name_img" : "",
+"sort": "11"
+},{
+"artists_name_disp" : "嵐",
+"artists_name_img": "",
+"music_name_disp" : "感謝カンゲキ雨嵐",
+"music_name_img" : "",
+"sort": "12"
+},{
+"artists_name_disp" : "aiko",
+"artists_name_img": "",
+"music_name_disp" : "ボーイフレンド",
+"music_name_img" : "",
+"sort": "13"
+},{
+"artists_name_disp" : "the brilliant green",
+"artists_name_img": "",
+"music_name_disp" : "angelsongーイヴの鐘ー",
+"music_name_img" : "",
+"sort": "14"
+},{
+"artists_name_disp" : "PUFFY",
+"artists_name_img": "",
+"music_name_disp" : "ブギウギNo.5",
+"music_name_img" : "",
+"sort": "15"
+},{
+"artists_name_disp" : "Every Little Thing",
+"artists_name_img": "",
+"music_name_disp" : "fragile",
+"music_name_img" : "",
+"sort": "16"
+},{
+"artists_name_disp" : "TOKIO",
+"artists_name_img": "",
+"music_name_disp" : "みんなでワーッハッハ！",
+"music_name_img" : "",
+"sort": "17"
+},{
+"artists_name_disp" : "JUDY AND MARY",
+"artists_name_img": "",
+"music_name_disp" : "motto",
+"music_name_img" : "",
+"sort": "18"
+},{
+"artists_name_disp" : "鈴木あみ",
+"artists_name_img": "",
+"music_name_disp" : "THANK YOU 4 EVERY DAY EVERY BODY",
+"music_name_img" : "",
+"sort": "19"
+},{
+"artists_name_disp" : "19",
+"artists_name_img": "",
+"music_name_disp" : "水・陸・そら、無限大",
+"music_name_img" : "",
+"sort": "20"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "CHANGE THE WORLD",
+"music_name_img" : "",
+"sort": "21"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "MUSIC FOR THE PEOPLE",
+"music_name_img" : "",
+"sort": "22"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "野生の花",
+"music_name_img" : "",
+"sort": "23"
+},{
+"artists_name_disp" : "V6",
+"artists_name_img": "",
+"music_name_disp" : "愛なんだ",
+"music_name_img" : "",
+"sort": "24"
+},{
+"artists_name_disp" : "hiro",
+"artists_name_img": "",
+"music_name_disp" : "Treasure",
+"music_name_img" : "",
+"sort": "25"
+},{
+"artists_name_disp" : "T.M.Revolution",
+"artists_name_img": "",
+"music_name_disp" : "魔弾～Der Freischutz～",
+"music_name_img" : "",
+"sort": "26"
+},{
+"artists_name_disp" : "J-FRIENDS",
+"artists_name_img": "",
+"music_name_disp" : "I WILL GET THERE",
+"music_name_img" : "",
+"sort": "27"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "ミュージック・アワー",
+"music_name_img" : "",
+"sort": "28"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "サウダージ",
+"music_name_img" : "",
+"sort": "29"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "サボテン",
+"music_name_img" : "",
+"sort": "30"
+},{
+"artists_name_disp" : "モーニング娘。",
+"artists_name_img": "",
+"music_name_disp" : "ハッピーサマーウェディング",
+"music_name_img" : "",
+"sort": "31"
+},{
+"artists_name_disp" : "モーニング娘。",
+"artists_name_img": "",
+"music_name_disp" : "I WISH",
+"music_name_img" : "",
+"sort": "32"
+},{
+"artists_name_disp" : "モーニング娘。",
+"artists_name_img": "",
+"music_name_disp" : "恋愛レボリューション２１",
+"music_name_img" : "",
+"sort": "33"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "SEASONS",
+"music_name_img" : "",
+"sort": "34"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "M",
+"music_name_img" : "",
+"sort": "35"
+},{
+"artists_name_disp" : "小柳ゆき",
+"artists_name_img": "",
+"music_name_disp" : "愛情",
+"music_name_img" : "",
+"sort": "36"
+},{
+"artists_name_disp" : "小柳ゆき",
+"artists_name_img": "",
+"music_name_disp" : "あなたのキスを数えましょう",
+"music_name_img" : "",
+"sort": "37"
+},{
+"artists_name_disp" : "B'z",
+"artists_name_img": "",
+"music_name_disp" : "Seventh Heaven",
+"music_name_img" : "",
+"sort": "38"
+},{
+"artists_name_disp" : "B'z",
+"artists_name_img": "",
+"music_name_disp" : "今夜月の見える丘に",
+"music_name_img" : "",
+"sort": "39"
+},{
+"artists_name_disp" : "藤井隆",
+"artists_name_img": "",
+"music_name_disp" : "ナンダカンダ",
+"music_name_img" : "",
+"sort": "40"
+},{
+"artists_name_disp" : "TM NETWORK",
+"artists_name_img": "",
+"music_name_disp" : "IGNITION,SEQUENCE,START",
+"music_name_img" : "",
+"sort": "41"
+},{
+"artists_name_disp" : "郷ひろみ",
+"artists_name_img": "",
+"music_name_disp" : "なかったコトにして",
+"music_name_img" : "",
+"sort": "42"
+},{
+"artists_name_disp" : "鬼束ちひろ",
+"artists_name_img": "",
+"music_name_disp" : "月光",
+"music_name_img" : "",
+"sort": "43"
+},{
+"artists_name_disp" : "L'Arc～en～Ciel",
+"artists_name_img": "",
+"music_name_disp" : "NEO UNIVERSE",
+"music_name_img" : "",
+"sort": "44"
+},{
+"artists_name_disp" : "L'Arc～en～Ciel",
+"artists_name_img": "",
+"music_name_disp" : "STAY AWAY",
+"music_name_img" : "",
+"sort": "45"
+},{
+"artists_name_disp" : "平井堅",
+"artists_name_img": "",
+"music_name_disp" : "楽園",
+"music_name_img" : "",
+"sort": "46"
+},{
+"artists_name_disp" : "MAX",
+"artists_name_img": "",
+"music_name_disp" : "Ride on time",
+"music_name_img" : "",
+"sort": "47"
+},{
+"artists_name_disp" : "MAX",
+"artists_name_img": "",
+"music_name_disp" : "バラ色の日々",
+"music_name_img" : "",
+"sort": "48"
+},{
+"artists_name_disp" : "MAX",
+"artists_name_img": "",
+"music_name_disp" : "一緒に・・・",
+"music_name_img" : "",
+"sort": "49"
+},{
+"artists_name_disp" : "THE YELLOW MONKEY",
+"artists_name_img": "",
+"music_name_disp" : "BRILLIANT WORLD",
+"music_name_img" : "",
+"sort": "50"
+},{
+"artists_name_disp" : "globe",
+"artists_name_img": "",
+"music_name_disp" : "DON'T LOOK BACK",
+"music_name_img" : "",
+"sort": "51"
+},{
+"artists_name_disp" : "安室奈美恵",
+"artists_name_img": "",
+"music_name_disp" : "NEVER END",
+"music_name_img" : "",
+"sort": "52"
+},{
+"artists_name_disp" : "安室奈美恵",
+"artists_name_img": "",
+"music_name_disp" : "think of me",
+"music_name_img" : "",
+"sort": "53"
+},{}]}

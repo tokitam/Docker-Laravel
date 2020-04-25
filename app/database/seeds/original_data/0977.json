@@ -1,0 +1,45 @@
+{"date" : "2009.07.31.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Aqua Timez",
+"artists_name_img": "",
+"music_name_disp" : "プルメリア ～花唄～",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "UA",
+"artists_name_img": "",
+"music_name_disp" : "愛の進路",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "黒木メイサ",
+"artists_name_img": "",
+"music_name_disp" : "SHOCK -運命-",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "堂本光一",
+"artists_name_img": "",
+"music_name_disp" : "妖 <span style=\"font-size:0.7em;\">～あやかし～<\/span>",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "ゆず",
+"artists_name_img": "",
+"music_name_disp" : "いちご",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "両さん",
+"artists_name_img": "",
+"music_name_disp" : "こちら葛飾区亀有公園前派出所",
+"music_name_img" : "こちら<img class=\"img-txt\" src=\"\/music\/contents\/img\/katsu.gif\" style=\"vertical-align:-0.4em;\">飾区亀有公園前派出所",
+"sort": "4"
+},{}]}

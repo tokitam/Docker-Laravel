@@ -1,0 +1,51 @@
+{"date" : "2001.07.13.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "LOVESICK",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "情熱(Acoustic Version)",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "UNITE!",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "矢井田瞳",
+"artists_name_img": "",
+"music_name_disp" : "Over The Distance",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "DREAMS COME TRUE",
+"artists_name_img": "",
+"music_name_disp" : "いつのまに",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "TETSU69",
+"artists_name_img": "",
+"music_name_disp" : "wonderful world",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "GRAPEVINE",
+"artists_name_img": "",
+"music_name_disp" : "風待ち",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

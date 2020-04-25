@@ -1,0 +1,57 @@
+{"date" : "2004.01.23.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "melody.",
+"artists_name_img": "",
+"music_name_disp" : "Crystal Love",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "ね､がんばるよ｡",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "島谷ひとみ",
+"artists_name_img": "",
+"music_name_disp" : "亜麻色の髪の乙女",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "島谷ひとみ",
+"artists_name_img": "",
+"music_name_disp" : "Ｐｅｒｓｅｕｓ－ペルセウスー",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "モーニング娘。",
+"artists_name_img": "",
+"music_name_disp" : "Memory 青春の光",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "モーニング娘。",
+"artists_name_img": "",
+"music_name_disp" : "愛あらば IT'S ALL RIGHT",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "GOING UNDER GROUND",
+"artists_name_img": "",
+"music_name_disp" : "ハートビート",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "Vo Vo Tau",
+"artists_name_img": "",
+"music_name_disp" : "裸～Nude～",
+"music_name_img" : "",
+"sort": "9"
+},{}]}

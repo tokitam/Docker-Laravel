@@ -1,0 +1,45 @@
+{"date" : "2006.08.25.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2054",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "ａｉｋｏ",
+"artists_name_img": "",
+"music_name_disp" : "瞳",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "Ａｑｕａ Ｔｉｍｅｚ",
+"artists_name_img": "",
+"music_name_disp" : "決意の朝に",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "グループ魂",
+"artists_name_img": "",
+"music_name_disp" : "スーパー！サマー！アックスボンバー！ラブハンター！<ruby><rb>06<\/rb><rp>（<\/rp><rt>ゼロロク<\/rt><rp>）<\/rp><\/ruby>！",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "ＳＵＥＭＩＴＳＵ ＆ＴＨＥ ＳＵＥＭＩＴＨ",
+"artists_name_img": "",
+"music_name_disp" : "Ａｓｔａｉｒｅ",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "ＴＯＫＩＯ",
+"artists_name_img": "",
+"music_name_disp" : "宙船（そらふね）",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "ＯＲＡＮＧＥ ＲＡＮＧＥ",
+"artists_name_img": "",
+"music_name_disp" : "ＵＮ ＲＯＣＫ ＳＴＡＲ",
+"music_name_img" : "",
+"sort": "5"
+},{}]}

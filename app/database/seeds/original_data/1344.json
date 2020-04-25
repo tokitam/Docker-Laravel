@@ -1,0 +1,57 @@
+{"date" : "2019.08.09.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2051",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "A.B.C-Z",
+"artists_name_img": "",
+"music_name_disp" : "Crush On You",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1344/images/4WlRV9nmmx.jpg",
+"sort": "1"
+},{
+"artists_name_disp" : "Official髭男dism",
+"artists_name_img": "",
+"music_name_disp" : "宿命",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1344/images/mgaYp0bgo6.jpg",
+"sort": "3"
+},{
+"artists_name_disp" : "DA PUMP",
+"artists_name_img": "",
+"music_name_disp" : "P.A.R.T.Y. ～ユニバース・フェスティバル～",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1344/images/pUtO9SvN6v.jpg",
+"sort": "4"
+},{
+"artists_name_disp" : "日向坂46",
+"artists_name_img": "",
+"music_name_disp" : "ドレミソラシド",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1344/images/M1iqplzjcW.jpg",
+"sort": "2"
+},{
+"artists_name_disp" : "フジファブリック",
+"artists_name_img": "",
+"music_name_disp" : "若者のすべて",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1344/images/qzdtW7ZpTh.jpg",
+"sort": "5"
+},{
+"artists_name_disp" : "RADWIMPS",
+"artists_name_img": "",
+"music_name_disp" : "グランドエスケープ（Movie edit）feat.三浦透子<br>愛にできることはまだあるかい",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1344/images/DjA2ebQeaU.jpg",
+"sort": "6"
+},{}]}

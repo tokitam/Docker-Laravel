@@ -1,0 +1,51 @@
+{"date" : "1994.10.21.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "TRF",
+"artists_name_img": "",
+"music_name_disp" : "Boy Meets Girl",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "井上陽水",
+"artists_name_img": "",
+"music_name_disp" : "移動電話",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "光GENJI SUPER 5",
+"artists_name_img": "",
+"music_name_disp" : "Melody Five",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "森高千里",
+"artists_name_img": "",
+"music_name_disp" : "素敵な誕生日",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "中森明菜",
+"artists_name_img": "",
+"music_name_disp" : "月華",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "平松愛理",
+"artists_name_img": "",
+"music_name_disp" : "あなたのいない休日",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "鈴木雅之",
+"artists_name_img": "",
+"music_name_disp" : "夢のまた夢",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

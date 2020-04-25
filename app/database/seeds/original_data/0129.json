@@ -1,0 +1,51 @@
+{"date" : "1989.07.07.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "SHOW-YA",
+"artists_name_img": "",
+"music_name_disp" : "私は嵐",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "WINK",
+"artists_name_img": "",
+"music_name_disp" : "淋しい熱帯魚",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "ZIGGY",
+"artists_name_img": "",
+"music_name_disp" : "FEELI'N SATISFIELD",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "光GENJI",
+"artists_name_img": "",
+"music_name_disp" : "太陽がいっぱい",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "今井美樹",
+"artists_name_img": "",
+"music_name_disp" : "Boogie-Woogie Lonesome High-Heel",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "森高千里",
+"artists_name_img": "",
+"music_name_disp" : "17才",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "渡辺美奈代",
+"artists_name_img": "",
+"music_name_disp" : "Winter スプリング、Summer フォール",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

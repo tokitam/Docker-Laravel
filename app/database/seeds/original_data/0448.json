@@ -1,0 +1,225 @@
+{"date" : "1996.12.27.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "B'z",
+"artists_name_img": "",
+"music_name_disp" : "SNOW",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "B'z",
+"artists_name_img": "",
+"music_name_disp" : "傷心",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "Coming Century（V6）",
+"artists_name_img": "",
+"music_name_disp" : "MADE IN JAPAN → 大丈夫→ Theme of Coming Century",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "dos",
+"artists_name_img": "",
+"music_name_disp" : "close your eyes",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "DREAMS COME TRUE",
+"artists_name_img": "",
+"music_name_disp" : "７月７日、晴れ",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "DREAMS COME TRUE",
+"artists_name_img": "",
+"music_name_disp" : "そうだよ",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "FIELD OF VIEW",
+"artists_name_img": "",
+"music_name_disp" : "ドキッ",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "FUNK THE PEANUTS(DREAMS COME TRUE）",
+"artists_name_img": "",
+"music_name_disp" : "太陽にくちづけを！～あたしたち真夏の FUN・P ～(LIVE ヴァージョン)",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "GLAY",
+"artists_name_img": "",
+"music_name_disp" : "BELOVED",
+"music_name_img" : "",
+"sort": "10"
+},{
+"artists_name_disp" : "globe",
+"artists_name_img": "",
+"music_name_disp" : "Can't Stop Fallin in Love",
+"music_name_img" : "",
+"sort": "11"
+},{
+"artists_name_disp" : "JUDY AND MARY",
+"artists_name_img": "",
+"music_name_disp" : "そばかす",
+"music_name_img" : "",
+"sort": "12"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "フレンズ → DISTANCE",
+"music_name_img" : "",
+"sort": "13"
+},{
+"artists_name_disp" : "LINDBERG",
+"artists_name_img": "",
+"music_name_disp" : "君のいちばんに…",
+"music_name_img" : "",
+"sort": "14"
+},{
+"artists_name_disp" : "LUNA SEA",
+"artists_name_img": "",
+"music_name_disp" : "END OF SORROW",
+"music_name_img" : "",
+"sort": "15"
+},{
+"artists_name_disp" : "MAX",
+"artists_name_img": "",
+"music_name_disp" : "Seventies",
+"music_name_img" : "",
+"sort": "16"
+},{
+"artists_name_disp" : "MAX",
+"artists_name_img": "",
+"music_name_disp" : "GET MY LOVE",
+"music_name_img" : "",
+"sort": "17"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "SHAKE",
+"music_name_img" : "",
+"sort": "18"
+},{
+"artists_name_disp" : "SPEED",
+"artists_name_img": "",
+"music_name_disp" : "STEADY",
+"music_name_img" : "",
+"sort": "19"
+},{
+"artists_name_disp" : "Swing Out Sister",
+"artists_name_img": "",
+"music_name_disp" : "あなたにいてほしい",
+"music_name_img" : "",
+"sort": "20"
+},{
+"artists_name_disp" : "THE YELLOW MONKEY",
+"artists_name_img": "",
+"music_name_disp" : "楽園",
+"music_name_img" : "",
+"sort": "21"
+},{
+"artists_name_disp" : "TOKIO",
+"artists_name_img": "",
+"music_name_disp" : "ありがとう…勇気　→ Everybody Can Do !　→ ありがとう…勇気",
+"music_name_img" : "",
+"sort": "22"
+},{
+"artists_name_disp" : "TRF",
+"artists_name_img": "",
+"music_name_disp" : "Hey ! Ladies & Gentleman",
+"music_name_img" : "",
+"sort": "23"
+},{
+"artists_name_disp" : "TRF",
+"artists_name_img": "",
+"music_name_disp" : "LEGEND OF WIND",
+"music_name_img" : "",
+"sort": "24"
+},{
+"artists_name_disp" : "X JAPAN",
+"artists_name_img": "",
+"music_name_disp" : "SCARS",
+"music_name_img" : "",
+"sort": "25"
+},{
+"artists_name_disp" : "ウルフルズ",
+"artists_name_img": "",
+"music_name_disp" : "ガッツだぜ !!",
+"music_name_img" : "",
+"sort": "26"
+},{
+"artists_name_disp" : "シャ乱Ｑ",
+"artists_name_img": "",
+"music_name_disp" : "NICE BOY ! → いいわけ → NICE BOY !",
+"music_name_img" : "",
+"sort": "27"
+},{
+"artists_name_disp" : "安室奈美恵",
+"artists_name_img": "",
+"music_name_disp" : "Don't wanna cry",
+"music_name_img" : "",
+"sort": "28"
+},{
+"artists_name_disp" : "安室奈美恵",
+"artists_name_img": "",
+"music_name_disp" : "a walk in the park",
+"music_name_img" : "",
+"sort": "29"
+},{
+"artists_name_disp" : "岡本真夜",
+"artists_name_img": "",
+"music_name_disp" : "Alone",
+"music_name_img" : "",
+"sort": "30"
+},{
+"artists_name_disp" : "観月ありさ",
+"artists_name_img": "",
+"music_name_disp" : "PROMISE to PROMISE",
+"music_name_img" : "",
+"sort": "31"
+},{
+"artists_name_disp" : "近藤真彦",
+"artists_name_img": "",
+"music_name_disp" : "ミッドナイトシャッフル",
+"music_name_img" : "",
+"sort": "32"
+},{
+"artists_name_disp" : "小沢健二",
+"artists_name_img": "",
+"music_name_disp" : "大人になれば",
+"music_name_img" : "",
+"sort": "33"
+},{
+"artists_name_disp" : "小沢健二",
+"artists_name_img": "",
+"music_name_disp" : "僕らが旅に出る理由",
+"music_name_img" : "",
+"sort": "34"
+},{
+"artists_name_disp" : "森高千里",
+"artists_name_img": "",
+"music_name_disp" : "銀色の夢",
+"music_name_img" : "",
+"sort": "35"
+},{
+"artists_name_disp" : "川本真琴",
+"artists_name_img": "",
+"music_name_disp" : "愛の才能",
+"music_name_img" : "",
+"sort": "36"
+},{
+"artists_name_disp" : "相川七瀬",
+"artists_name_img": "",
+"music_name_disp" : "恋心",
+"music_name_img" : "",
+"sort": "37"
+},{}]}

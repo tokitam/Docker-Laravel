@@ -1,0 +1,45 @@
+{"date" : "1996.04.19.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "DEEN",
+"artists_name_img": "",
+"music_name_disp" : "ひとりじゃない",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "dos",
+"artists_name_img": "",
+"music_name_disp" : "Baby baby baby",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "宇都宮隆",
+"artists_name_img": "",
+"music_name_disp" : "少年",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "近藤真彦 with V6アダルト＋Jr.",
+"artists_name_img": "",
+"music_name_disp" : "ミッドナイトシャッフル",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "黒夢",
+"artists_name_img": "",
+"music_name_disp" : "ピストル",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "瀬戸朝香",
+"artists_name_img": "",
+"music_name_disp" : "離さない離せない",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

@@ -1,0 +1,51 @@
+{"date" : "2000.11.24.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "dream",
+"artists_name_img": "",
+"music_name_disp" : "My will",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "JUDY AND MARY",
+"artists_name_img": "",
+"music_name_disp" : "motto",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "今井絵理子(SPEED)",
+"artists_name_img": "",
+"music_name_disp" : "in the Name of Love",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Whiteberry",
+"artists_name_img": "",
+"music_name_disp" : "あくび",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "J-FRIENDS（TOKIO,V6,KinKi Kids）",
+"artists_name_img": "",
+"music_name_disp" : "I WILL GET THERE",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "AJICO",
+"artists_name_img": "",
+"music_name_disp" : "波動",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "tohko",
+"artists_name_img": "",
+"music_name_disp" : "PUZZLE…by the irony of fate…",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

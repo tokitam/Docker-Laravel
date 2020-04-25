@@ -1,0 +1,45 @@
+{"date" : "2007.11.16.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2050",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "KAT-TUN",
+"artists_name_img": "",
+"music_name_disp" : "Keep the faith",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "桑田佳祐",
+"artists_name_img": "",
+"music_name_disp" : "ダーリン",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "倖田來未",
+"artists_name_img": "",
+"music_name_disp" : "LAST ANGEL feat.東方神起",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "コブクロ",
+"artists_name_img": "",
+"music_name_disp" : "蒼く 優しく",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "L'Arc～en～Ciel",
+"artists_name_img": "",
+"music_name_disp" : "Hurry Xmas",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "RIP SLYME",
+"artists_name_img": "",
+"music_name_disp" : "SPEED KING",
+"music_name_img" : "",
+"sort": "5"
+},{}]}

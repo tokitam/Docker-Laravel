@@ -1,0 +1,45 @@
+{"date" : "1996.06.07.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Coming Century（V6）",
+"artists_name_img": "",
+"music_name_disp" : "STAY GOLD → Theme of Coming Century",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "FLYING KIDS",
+"artists_name_img": "",
+"music_name_disp" : "真夏のブリザード",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "MANISH",
+"artists_name_img": "",
+"music_name_disp" : "君の空になりたい",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "安室奈美恵",
+"artists_name_img": "",
+"music_name_disp" : "You're my sunshine",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "篠原涼子",
+"artists_name_img": "",
+"music_name_disp" : "平凡なハッピーじゃ物足りない",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "田村直美",
+"artists_name_img": "",
+"music_name_disp" : "Care してあげて",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

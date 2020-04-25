@@ -1,0 +1,51 @@
+{"date" : "1988.11.04.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "BUCK-TICK",
+"artists_name_img": "",
+"music_name_disp" : "JUST ONE MORE KISS",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "磯部恭子",
+"artists_name_img": "",
+"music_name_disp" : "CRUSH on LOVE",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "近藤真彦",
+"artists_name_img": "",
+"music_name_disp" : "あぁ、グッと",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "光GENJI",
+"artists_name_img": "",
+"music_name_disp" : "剣の舞",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "浅香唯",
+"artists_name_img": "",
+"music_name_disp" : "Melody",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "中森明菜",
+"artists_name_img": "",
+"music_name_disp" : "I MISSED \"THE SHOCK\"",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "徳永英明",
+"artists_name_img": "",
+"music_name_disp" : "最後の言い訳",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

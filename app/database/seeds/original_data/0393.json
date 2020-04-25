@@ -1,0 +1,45 @@
+{"date" : "1995.09.22.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "L'Arc～en～Ciel",
+"artists_name_img": "",
+"music_name_disp" : "Vivid Colours",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "MY LITTLE LOVER",
+"artists_name_img": "",
+"music_name_disp" : "Hello,Again ～昔からある場所～",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "どんないいこと",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Vanilla",
+"artists_name_img": "",
+"music_name_disp" : "愛をちょうだい",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "田村直美",
+"artists_name_img": "",
+"music_name_disp" : "Touch me",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "藤井フミヤ",
+"artists_name_img": "",
+"music_name_disp" : "ハートブレイク",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

@@ -1,0 +1,51 @@
+{"date" : "1989.08.25.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "CHAGE & ASKA with BLACK EYES",
+"artists_name_img": "",
+"music_name_disp" : "PRIDE",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "FAIRCHILD",
+"artists_name_img": "",
+"music_name_disp" : "Jelly Eyes は甘くない",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "WINK",
+"artists_name_img": "",
+"music_name_disp" : "淋しい熱帯魚",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "X JAPAN",
+"artists_name_img": "",
+"music_name_disp" : "紅～KURENAI～",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "光GENJI",
+"artists_name_img": "",
+"music_name_disp" : "太陽がいっぱい",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "仲村知夏",
+"artists_name_img": "",
+"music_name_disp" : "天使は眠ってる",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "片岡鶴太郎",
+"artists_name_img": "",
+"music_name_disp" : "思いの丈で...",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

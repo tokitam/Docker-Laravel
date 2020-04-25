@@ -1,0 +1,45 @@
+{"date" : "2004.07.16.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Tommy february6",
+"artists_name_img": "",
+"music_name_disp" : "L・O・V・E・L・Y ～夢見るLOVELY　BOY～",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "松浦 亜弥",
+"artists_name_img": "",
+"music_name_disp" : "YOUR　SONG　～青春宣誓～",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "サザンオールスターズ",
+"artists_name_img": "",
+"music_name_disp" : "夢に消えたジュリア",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "パク・ヨンハ",
+"artists_name_img": "",
+"music_name_disp" : "期別　<スペシャルバージョン>",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "安室 奈美恵",
+"artists_name_img": "",
+"music_name_disp" : "ALL　FOR　YOU",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "KAT-TUN",
+"artists_name_img": "",
+"music_name_disp" : "ノーマター・マター、NEVER　AGAIN、JAM",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

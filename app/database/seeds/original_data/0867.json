@@ -1,0 +1,57 @@
+{"date" : "2006.11.24.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2054",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "Aqua Timez",
+"artists_name_img": "",
+"music_name_disp" : "千の夜をこえて",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "Harmony of December",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "スキマスイッチ",
+"artists_name_img": "",
+"music_name_disp" : "アカツキの詩",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "NANA starring MIKA NAKASHIMA",
+"artists_name_img": "",
+"music_name_disp" : "一色",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "浜崎あゆみ",
+"artists_name_img": "",
+"music_name_disp" : "JEWEL",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "一青 窈",
+"artists_name_img": "",
+"music_name_disp" : "てんとう虫",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "HOME MADE 家族",
+"artists_name_img": "",
+"music_name_disp" : "EVERYBODY NEEDS MUSIC",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "ライン",
+"music_name_img" : "",
+"sort": "5"
+},{}]}

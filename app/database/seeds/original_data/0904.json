@@ -1,0 +1,51 @@
+{"date" : "2007.10.26.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2050",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "いきものがかり",
+"artists_name_img": "",
+"music_name_disp" : "茜色の約束",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "関ジャニ∞",
+"artists_name_img": "",
+"music_name_disp" : "イッツ マイ ソウル",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "木村カエラ",
+"artists_name_img": "",
+"music_name_disp" : "Yellow",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "SEAMO",
+"artists_name_img": "",
+"music_name_disp" : "Hey Boy,Hey Girl feat.BoA",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "FUNKY　MONKEY　BABYS",
+"artists_name_img": "",
+"music_name_disp" : "もう君がいない",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Hey! Say! JUMP",
+"artists_name_img": "Hey! S<img class=\"img-txt\" src=\"\/music\/contents\/img\/heysayjump_a.gif\">y! JUMP",
+"music_name_disp" : "Ultra Music Power",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "伊藤由奈",
+"artists_name_img": "",
+"music_name_disp" : "Urban Mermaid",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

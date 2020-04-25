@@ -1,0 +1,63 @@
+{"date" : "1988.06.24.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "アン・ルイス",
+"artists_name_img": "",
+"music_name_disp" : "KATANA",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "サザンオールスターズ",
+"artists_name_img": "",
+"music_name_disp" : "Big Star Blues -ビッグスターの悲劇-",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "サザンオールスターズ",
+"artists_name_img": "",
+"music_name_disp" : "みんなのうた",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "チェッカーズ",
+"artists_name_img": "",
+"music_name_disp" : "Jim & Jane の伝説",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "光GENJI",
+"artists_name_img": "",
+"music_name_disp" : "Diamond ハリケーン",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "松田聖子",
+"artists_name_img": "",
+"music_name_disp" : "ALWAYS",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "松田聖子",
+"artists_name_img": "",
+"music_name_disp" : "続・赤いスイトピー",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "池田聡",
+"artists_name_img": "",
+"music_name_disp" : "月の舟",
+"music_name_img" : "",
+"sort": "9"
+},{
+"artists_name_disp" : "南野陽子",
+"artists_name_img": "",
+"music_name_disp" : "あなたを愛したい",
+"music_name_img" : "",
+"sort": "10"
+},{}]}

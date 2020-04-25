@@ -1,0 +1,73 @@
+{"date" : "2019.07.19.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2121",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "亀梨和也",
+"artists_name_img": "",
+"music_name_disp" : "絆<br>青春アミーゴ",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1342/images/0Dxf8hkPpY.jpg",
+"sort": "6"
+},{
+"artists_name_disp" : "亀梨和也<br>Kis-My-Ft2<br>HiHi Jets & <span style=\"color:#FF0000;\">美<\/span> 少年",
+"artists_name_img": "",
+"music_name_disp" : "明日に向かって<br>Can do！ Can go！",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1342/images/WJgkBj4OsP.jpg",
+"sort": "8"
+},{
+"artists_name_disp" : "Kis-My-Ft2",
+"artists_name_img": "",
+"music_name_disp" : "祈り<br>Everybody Go",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1342/images/MeKz6uf0a7.jpg",
+"sort": "5"
+},{
+"artists_name_disp" : "ダイアモンド☆ユカイ",
+"artists_name_img": "<img class=\"img-txt\" src=\"\/music\/contents\/img\/diamond_yukai_lineup.png\" alt=\"ダイアモンド☆ユカイ\">",
+"music_name_disp" : "君はともだち",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1342/images/RtGYHsV8s0.jpg",
+"sort": "1"
+},{
+"artists_name_disp" : "HiHi Jets & <span style=\"color:#FF0000;\">美<\/span> 少年",
+"artists_name_img": "",
+"music_name_disp" : "おいで、Sunshine！",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1342/images/rf3E9hcvv0.jpg",
+"sort": "7"
+},{
+"artists_name_disp" : "日向坂46",
+"artists_name_img": "",
+"music_name_disp" : "ドレミソラシド",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1342/images/85JgUS76Xg.jpg",
+"sort": "4"
+},{
+"artists_name_disp" : "ポルノグラフィティ",
+"artists_name_img": "",
+"music_name_disp" : "VS",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1342/images/Qk9o84eTEU.jpg",
+"sort": "3"
+},{
+"artists_name_disp" : "山寺宏一",
+"artists_name_img": "",
+"music_name_disp" : "フレンド・ライク・ミー",
+"music_name_img" : "",
+"artists_image_flag" : "1",
+"artists_image" : "/music/contents/m_lineup/1342/images/lhCtVwW2Dd.jpg",
+"sort": "2"
+},{}]}

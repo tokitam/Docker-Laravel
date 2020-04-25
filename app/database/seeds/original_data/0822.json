@@ -1,0 +1,51 @@
+{"date" : "2005.12.09.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2054",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "COLOR",
+"artists_name_img": "",
+"music_name_disp" : "音色",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "SNOW!SNOW!SNOW!",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "倖田來未",
+"artists_name_img": "",
+"music_name_disp" : "you",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "近藤真彦",
+"artists_name_img": "",
+"music_name_disp" : "挑戦者",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "中島美嘉",
+"artists_name_img": "",
+"music_name_disp" : "AMAZING GRACE('05)",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "HALCALI",
+"artists_name_img": "",
+"music_name_disp" : "Tip Taps Tip",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "大塚愛",
+"artists_name_img": "",
+"music_name_disp" : "Cherish",
+"music_name_img" : "",
+"sort": "3"
+},{}]}

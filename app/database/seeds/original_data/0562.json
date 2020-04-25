@@ -1,0 +1,45 @@
+{"date" : "1999.08.20.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "GRAPEVINE",
+"artists_name_img": "",
+"music_name_disp" : "羽根",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "SOPHIA",
+"artists_name_img": "",
+"music_name_disp" : "Place～",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "the brilliant green",
+"artists_name_img": "",
+"music_name_disp" : "愛の愛の星",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "Tina",
+"artists_name_img": "",
+"music_name_disp" : "Magic",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "TOKIO",
+"artists_name_img": "",
+"music_name_disp" : "忘れえぬ君へ・・・",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "安室奈美恵",
+"artists_name_img": "",
+"music_name_disp" : "SOMETHING'BOUT THE KISS",
+"music_name_img" : "",
+"sort": "7"
+},{}]}

@@ -1,0 +1,51 @@
+{"date" : "1987.03.13.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "BaBe",
+"artists_name_img": "",
+"music_name_disp" : "Give Me Up",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "シブがき隊",
+"artists_name_img": "",
+"music_name_disp" : "ドリーム・ラッシュ",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "忌野清志郎",
+"artists_name_img": "",
+"music_name_disp" : "AROUND THE CORNER～曲がり角のところで～",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "清水宏次朗",
+"artists_name_img": "",
+"music_name_disp" : "Down Town Alley",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "聖飢魔Ⅱ",
+"artists_name_img": "",
+"music_name_disp" : "EL'DO'RA'DO",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "西村知美",
+"artists_name_img": "",
+"music_name_disp" : "シンフォニーの風",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "芳本美代子",
+"artists_name_img": "",
+"music_name_disp" : "ヴァニティ・ナイト",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

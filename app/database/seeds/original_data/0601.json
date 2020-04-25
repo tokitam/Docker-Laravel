@@ -1,0 +1,51 @@
+{"date" : "2000.07.07.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "KinKi Kids",
+"artists_name_img": "",
+"music_name_disp" : "夏の王様",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "JUDY AND MARY",
+"artists_name_img": "",
+"music_name_disp" : "ひとつだけ",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "タンポポ（モーニング娘。）",
+"artists_name_img": "",
+"music_name_disp" : "乙女パスタに感動",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "スピッツ",
+"artists_name_img": "",
+"music_name_disp" : "放浪カモメはどこまでも",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "山崎まさよし",
+"artists_name_img": "",
+"music_name_disp" : "明日の風",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "B'z",
+"artists_name_img": "",
+"music_name_disp" : "juice",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "Blankey Jet City",
+"artists_name_img": "",
+"music_name_disp" : "SATURDAY NIGHT",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

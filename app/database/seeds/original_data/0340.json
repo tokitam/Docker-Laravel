@@ -1,0 +1,51 @@
+{"date" : "1994.07.15.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "m.c.A・T",
+"artists_name_img": "",
+"music_name_disp" : "Funky Gutsman !",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "永井真理子",
+"artists_name_img": "",
+"music_name_disp" : "日曜日が足りない",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "久宝留理子",
+"artists_name_img": "",
+"music_name_disp" : "早くしてよ",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "郷ひろみ",
+"artists_name_img": "",
+"music_name_disp" : "言えないよ",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "研ナオコ（THE 虎舞竜）",
+"artists_name_img": "",
+"music_name_disp" : "花火",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "森口博子",
+"artists_name_img": "",
+"music_name_disp" : "誘惑してよね 夏だから",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "オリジナルスマイル",
+"music_name_img" : "",
+"sort": "8"
+},{}]}

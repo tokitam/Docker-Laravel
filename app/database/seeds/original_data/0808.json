@@ -1,0 +1,39 @@
+{"date" : "1996.03.08.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "CHAGE & ASKA",
+"artists_name_img": "",
+"music_name_disp" : "river",
+"music_name_img" : "",
+"sort": "2"
+},{
+"artists_name_disp" : "SMAP",
+"artists_name_img": "",
+"music_name_disp" : "胸さわぎを頼むよ",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "THE YELLOW MONKEY",
+"artists_name_img": "",
+"music_name_disp" : "JAM",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "華原朋美",
+"artists_name_img": "",
+"music_name_disp" : "I'm proud",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "中山美穂",
+"artists_name_img": "",
+"music_name_disp" : "THINKING ABOUT YOU",
+"music_name_img" : "",
+"sort": "6"
+},{}]}

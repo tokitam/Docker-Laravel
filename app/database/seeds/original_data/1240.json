@@ -1,0 +1,57 @@
+{"date" : "2016.04.22.FRI<br>PM 8:00",
+"date_disp_flag" : "1",
+"free" : "",
+"biko" :"",
+"biko2" :"",
+"onair" : "2045",
+"kakutei" : "1",
+"data" : [
+{
+"artists_name_disp" : "きゃりーぱみゅぱみゅ",
+"artists_name_img": "",
+"music_name_disp" : "最＆高",
+"music_name_img" : "",
+"sort": "3"
+},{
+"artists_name_disp" : "欅坂46",
+"artists_name_img": "",
+"music_name_disp" : "サイレントマジョリティー",
+"music_name_img" : "",
+"sort": "4"
+},{
+"artists_name_disp" : "三代目 J Soul Brothers",
+"artists_name_img": "",
+"music_name_disp" : "J.S.B. DREAM",
+"music_name_img" : "",
+"sort": "7"
+},{
+"artists_name_disp" : "スピッツ",
+"artists_name_img": "",
+"music_name_disp" : "みなと",
+"music_name_img" : "",
+"sort": "8"
+},{
+"artists_name_disp" : "ナオト・インティライミ",
+"artists_name_img": "",
+"music_name_disp" : "together",
+"music_name_img" : "",
+"sort": "5"
+},{
+"artists_name_disp" : "BABYMETAL",
+"artists_name_img": "",
+"music_name_disp" : "KARATE",
+"music_name_img" : "",
+"sort": "6"
+},{
+"artists_name_disp" : "Mr.KINGとジャニーズJr.",
+"artists_name_img": "",
+"music_name_disp" : "情熱の色",
+"music_name_img" : "",
+"sort": "1"
+},{
+"artists_name_disp" : "Mr.KINGとジャニーズJr.",
+"artists_name_img": "",
+"music_name_disp" : "Bounce To Night",
+"music_name_img" : "",
+"sort": "2"
+},{}]}
