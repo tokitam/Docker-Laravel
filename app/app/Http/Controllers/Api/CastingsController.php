@@ -7,6 +7,7 @@ use App\Http\Controllers\Controller;
 use App\Services;
 
 class CastingsController extends Controller
+{
 
     public function index()
     {
