@@ -12,14 +12,18 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
 
 
 Route::get('/welcome', function () {
-    return view('welcome');
+    return view('index');
 });
 
 
 Route::get('/hello', 'HelloController@index');
+
+Route::get('/artists', 'ArtistsController@index');
+
+Route::get('/ranking', 'RankingController@index');
 

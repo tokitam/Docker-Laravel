@@ -6,13 +6,13 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Services;
 
-class CastingsController extends Controller
+class RankingController extends Controller
 {
 
-    public function index()
+    public function index(Request $request)
     {
-        $castingsService = new \App\Services\CastingsService();
-        return ['data' => $castingsService->getCastings()];
+        $castingsService = new \App\Services\RankingService();
+        return ['data' => $castingsService->getRanking($request)];
     }
 
     public function store()

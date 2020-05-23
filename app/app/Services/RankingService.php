@@ -2,18 +2,28 @@
 
 namespace App\Services;
 
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
-class CastingsService
+class RankingService
 {
-    public function getCastings()
+    public function getRanking(Request $request)
     {
         $castings = DB::table('castings')
             ->leftJoin('artists', 'artists.id', '=', 'castings.artist_id')
             ->leftJoin('episodes', 'episodes.id', '=', 'castings.episode_id')
             ->limit(20000)
-            ->select(['episodes.on_air_date', 'artists.name', 'castings.song_title'])
-            ->get();
+            ->groupBy('castings.artist_id')
+            ->orderBy('num_of', 'desc')
+            ->select(DB::raw('artists.name, count(episodes.on_air_date) num_of'));
+
+        if ($request->get('from')) {
+            $castings->where('episodes.on_air_date', '>=',$request->get('from'));
+        }
+        if ($request->get('to')) {
+            $castings->where('episodes.on_air_date', '<=',$request->get('to'));
+        }
+        $castings = $castings->get();
 
         $list = [];
 

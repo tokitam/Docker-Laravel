@@ -23,8 +23,6 @@
 <script>
     window.onload = function () {
 
-        console.log('this is onload.');
-
         $('#example').DataTable({
             "ajax": '/api/castings',
             "columns": [
@@ -39,5 +37,4 @@
 
     };
 </script>
-
 @endsection

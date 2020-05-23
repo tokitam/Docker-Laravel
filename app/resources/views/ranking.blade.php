@@ -5,16 +5,16 @@
     <table id="example" class="display" style="width:100%">
         <thead>
         <tr>
-            <th>オンエアー日付</th>
+            <th>順位</th>
             <th>出演者名</th>
-            <th>曲名</th>
+            <th>出演回数</th>
         </tr>
         </thead>
         <tfoot>
         <tr>
-            <th>オンエアー日付</th>
+            <th>順位</th>
             <th>出演者名</th>
-            <th>曲名</th>
+            <th>出演回数</th>
         </tr>
         </tfoot>
     </table>
@@ -23,10 +23,8 @@
 <script>
     window.onload = function () {
 
-        console.log('this is onload.');
-
         $('#example').DataTable({
-            "ajax": '/api/castings',
+            "ajax": '/api/ranking?from=2010-01-01&to=2015-01-01',
             "columns": [
                 {"width": "70px"},
                 null,
@@ -39,5 +37,4 @@
 
     };
 </script>
-
 @endsection
