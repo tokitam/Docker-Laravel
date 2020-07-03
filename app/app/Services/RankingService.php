@@ -4,6 +4,7 @@ namespace App\Services;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Log;
 
 class RankingService
 {
@@ -27,12 +28,38 @@ class RankingService
 
         $list = [];
 
+        //$logger = \Log::channel('daily')->getLogger();
+        //$logger->info( "TEST LOG", ['file' => basename(__FILE__), 'line' => __LINE__] );
+
+        \Log::debug('test');
+
+        $rank = 0;
+        $rank_r = 0;
+        $prev_num = 999999999;
+
         foreach ($castings as $casting) {
             $row = [];
             foreach ($casting as $item) {
+                // \Log::debug('$item:' . print_r($item, true), ['file' => basename(__FILE__), 'line' => __LINE__]);
+
                 array_push($row, $item);
             }
+
+            $rank_r++;
+
+            \Log::debug('$prev_num:' . $request->get('from') . ':' . $prev_num);
+            \Log::debug('$row[1]  :' . $request->get('from') . ':' . $row[1]);
+
+            if ($prev_num > $row[1]) {
+                $rank = $rank_r;
+            }
+
+            $prev_num = $row[1];
+
+
+            array_unshift($row, $rank);
             array_push($list, $row);
+
         }
 
         return $list;

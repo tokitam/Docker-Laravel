@@ -26,12 +26,12 @@
         $('#example').DataTable({
             "ajax": '/api/castings',
             "columns": [
-                {"width": "70px"},
+                {"width": "25px"},
                 null,
                 null
             ],
             language: {
-                url: "http://cdn.datatables.net/plug-ins/9dcbecd42ad/i18n/Japanese.json"
+                url: "/js/Japanese.json"
             }
         });
 
