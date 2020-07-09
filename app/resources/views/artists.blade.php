@@ -26,7 +26,7 @@
         $('#example').DataTable({
             "ajax": '/api/castings',
             "columns": [
-                {"width": "25px"},
+                {"width": "70px"},
                 null,
                 null
             ],
